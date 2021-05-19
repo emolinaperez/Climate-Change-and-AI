@@ -1,0 +1,13 @@
+---
+title: "README"
+author: "Marcelo Méndez - A01635611"
+date: "5/19/2021"
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Readme
+Esta carpeta tendrá la información de la prueba de github
