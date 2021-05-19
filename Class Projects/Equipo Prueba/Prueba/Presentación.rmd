@@ -33,3 +33,10 @@ summary(cars)
 plot(pressure)
 ```
 
+## Ecuaciones
+
+$X^2$
+
+\begin{equation}
+X^2
+\end{equation}
