@@ -9,7 +9,8 @@ library(httr)
 library(jsonlite)
 
 #NDC
- url<-"https://www.climatewatchdata.org/api/v1/data/ndc_content"
+ url <- "https://www.climatewatchdata.org/api/v1/data/ndc_content"
+
 #make a get request
 
  resNDC <- GET(url)
@@ -68,13 +69,16 @@ for(i in 2:pages)
 
 #it looks like it worked, but maybe we use too many lines to do this, we can do the same process with fewer lines using lapply
 NDCdata.best<-lapply(c(1:pages),function(x){
-                             resNDC<-GET(url,query= list(countries = "EUU", page=x));
+                            resNDC<-GET(url,query= list(countries = "EUU", page=x));
                              fromJSON(rawToChar(resNDC$content))$data
                              }
                       )
 
-NDCdata.best<-do.call('rbind',NDCdata.best)
+#
+
 # you can see we get the same object
 dim(NDCdata.best)
 
 #Next we need to do this for all countries and all available data in this repository
+#let's first begin with more countries
+#
