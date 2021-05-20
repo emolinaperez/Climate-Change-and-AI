@@ -96,33 +96,3 @@ unique(NDCdata$iso_code3)
 #lets do all at once
 sapply(NDCdata, unique)
 sapply(NDCdata, max)
-
-#En todo el mundo_______________________________
-
-#Proceso/Consejo= ¿Cual es la idea general?
-#1) Obtener un vector con las claves de los países
-#2) estimar cuantas páginas por país hay
-#3) En función de eso, programar mi función lapply para que haga rbind en todas las tablas
-#4) Quiero que guarde un  csv de cada país en mi carpeta
-#5) Este proceso tiene que ocurrir en todos los países
-
-#segund aopción
-#jalo la base completa y  el loop corree 2003
-#guardo el archivo 
-
-##NDC
-url <- "https://www.climatewatchdata.org/api/v1/data/ndc_content"
-
-#make a get request
-
-resNDC <- GET(url)
-NamesC<-
-for(i in 1:lenght(NamesC))
-{
-NDCdata.best<-lapply(c(1:pages),function(x){
-                resNDC<-GET(url,query= list(countries = NamesC[i], page=x));
-                fromJSON(rawToChar(resNDC$content))$data
-        }
-        )
-NDCdata.best<-do.call(rbind,NDCdata.best)
-}
