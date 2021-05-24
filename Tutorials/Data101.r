@@ -9,7 +9,8 @@ library(httr)
 library(jsonlite)
 
 #NDC
- url<-"https://www.climatewatchdata.org/api/v1/data/ndc_content"
+ url <- "https://www.climatewatchdata.org/api/v1/data/ndc_content"
+
 #make a get request
 
  resNDC <- GET(url)
@@ -68,13 +69,47 @@ for(i in 2:pages)
 
 #it looks like it worked, but maybe we use too many lines to do this, we can do the same process with fewer lines using lapply
 NDCdata.best<-lapply(c(1:pages),function(x){
-                             resNDC<-GET(url,query= list(countries = "EUU", page=x));
+                            resNDC<-GET(url,query= list(countries = "EUU", page=x));
                              fromJSON(rawToChar(resNDC$content))$data
                              }
                       )
 
-NDCdata.best<-do.call('rbind',NDCdata.best)
+NDCdata.best<-do.call(rbind,NDCdata.best)
 # you can see we get the same object
 dim(NDCdata.best)
 
 #Next we need to do this for all countries and all available data in this repository
+#let's explore the database
+ colnames(NDCdata)
+ names(NDCdata)
+ summary(NDCdata)
+#get unique values of variable
+ unique(NDCdata$iso_code3)
+#let's do all at once
+ sapply(NDCdata,unique)
+ sapply(NDCdata,max)
+
+#let's do this for all countries
+
+#primero tengo que obtenter un vector con las claves de los países
+#segundo tengo que estimar cuantas páginas por país hay
+#tercero en función de eso programar mi lapply para que haga rbind en todas las tables }
+# guardar un csv de cada pais en mi carpeta
+# este proceso tiene que ocurrir en todos los paises
+
+
+#segunda opción jalo la base completa, y el loop corre 2003 .
+#guardo el archivo
+
+
+NamesC<-
+for (i in 1:length(NamesC))
+{
+NDCdata.best<-lapply(c(1:pages),function(x){
+                            resNDC<-GET(url,query= list(countries = NamesC[i] , page=x));
+                             fromJSON(rawToChar(resNDC$content))$data
+                             }
+                      )
+NDCdata.best<-do.call(rbind,NDCdata.best)
+
+}
