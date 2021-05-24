@@ -8,13 +8,11 @@ install.packages(c("httr", "jsonlite"))
 library(httr)
 library(jsonlite)
 
-#NDC
- url<-"https://www.climatewatchdata.org/api/v1/data/ndc_content"
-#make a get request
-
- resNDC <- GET(url)
-
-#transform this to actual data
+url<-"https://www.climatewatchdata.org/api/v1/data/ndc_content"
+resNDC <- GET(url)
+total<-as.numeric(resNDC$headers$total)
+per.page<-as.numeric(resNDC$headers['per-page'])
+pages<-ceiling(total/per.page)
 
  NDCdata<-fromJSON(rawToChar(resNDC$content))
 
