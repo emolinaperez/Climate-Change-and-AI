@@ -1,5 +1,5 @@
 #read all files store in one single location
- root<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\NDC\\"
+ root<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\NDC\\Raw\\"
 
 #first list all files and save these into a character vector
  file.names<-list.files(path =root, pattern = ".csv")
