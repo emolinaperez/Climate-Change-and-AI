@@ -25,7 +25,7 @@ library(jsonlite)
  nations<-unique(NDCdata.best$iso_code3)
 
 #save all data in individual tables
- root<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\NDC\\"
+ root<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\NDC\\Raw\\"
  for (i in 1:length(nations))
  {
    pivot<-subset(NDCdata.best,iso_code3==nations[i])
@@ -34,4 +34,4 @@ library(jsonlite)
 
 #create table fot nations codes
  nations_names<-data.frame(iso_code3=unique(NDCdata.best$iso_code3),country=unique(NDCdata.best$country))
- 
+ write.csv(nations_names,paste0(root,"nations_names_ndc.csv"),row.names=FALSE)
