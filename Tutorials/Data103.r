@@ -66,7 +66,7 @@
 
 
 
- out<-"/Users/marianamonroy/Desktop/Git Hub/Climate-Change-and-AI/Data/NDC/Raw/"
+ out<-"/Users/marianamonroy/Desktop/Git Hub/Climate-Change-and-AI/Data/NDC/"
 
  for (i in 1:length(indicators))
  {
