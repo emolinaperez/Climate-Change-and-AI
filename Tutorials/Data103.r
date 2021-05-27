@@ -66,14 +66,13 @@
  explore<-explore[order(-explore$value.numeric),]
  explore
 
-
+#
 
 # Now save all indactors in PC
- #out<-"/Users/.." # for mac users 
+ #out<-"/Users/.." # for mac users
  out<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\NDC\\Indicators\\"
  for (i in 1:length(indicators))
  {
-   i<-1
    explore<-subset(NDCData,indicator_name==indicators[i])
    explore$count<-1
    explore<-aggregate(list(count=explore$count),list(
