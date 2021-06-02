@@ -1,18 +1,18 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Industries","No specified measure",284
-"Mitigation","Industries","Industries: General",38
-"Mitigation","Industries","Cement, Industries: General",12
-"Mitigation","Industries","Air Conditioners and Refrigerators",6
-"Mitigation","Industries","HFCs",6
-"Mitigation","Industries","HFCs, Industries: General",6
-"Mitigation","Industries","Chemicals",5
-"Mitigation","Industries","Cement",4
-"Mitigation","Industries","Chemicals, Industries: General",4
-"Mitigation","Industries","Air Conditioners and Refrigerators, Industries: General",3
-"Mitigation","Industries","Air Conditioners and Refrigerators, Cement, Chemicals, HFCs, Iron and Steel, Paper",2
-"Mitigation","Industries","Air Conditioners and Refrigerators, Chemicals, HFCs, SLCPs",2
-"Mitigation","Industries","Air Conditioners and Refrigerators, HFCs, Industries: General",2
-"Mitigation","Industries","Industries: General, Monitoring and Evaluation System",2
-"Mitigation","Industries","Iron and Steel, Land Degradation",2
-"Mitigation","Industries","SLCPs",2
-"Mitigation","Industries","No Document Submitted",1
+"global_category","indicator_name","value","count","Industries: General","Cement"," Industries: General","Air Conditioners and Refrigerators","HFCs","Chemicals"," Cement"," Chemicals"," HFCs"," Iron and Steel"," Paper"," SLCPs"," Monitoring and Evaluation System","Iron and Steel"," Land Degradation","SLCPs","GlobalScore"
+"Mitigation","Industries","No specified measure",284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","Industries","Industries: General",38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Industries","Cement, Industries: General",12,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Industries","Air Conditioners and Refrigerators",6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Industries","HFCs",6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Industries","HFCs, Industries: General",6,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Industries","Chemicals",5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Industries","Cement",4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Industries","Chemicals, Industries: General",4,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Industries","Air Conditioners and Refrigerators, Industries: General",3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Industries","Air Conditioners and Refrigerators, Cement, Chemicals, HFCs, Iron and Steel, Paper",2,0,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,10
+"Mitigation","Industries","Air Conditioners and Refrigerators, Chemicals, HFCs, SLCPs",2,0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,1,7
+"Mitigation","Industries","Air Conditioners and Refrigerators, HFCs, Industries: General",2,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,5
+"Mitigation","Industries","Industries: General, Monitoring and Evaluation System",2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+"Mitigation","Industries","Iron and Steel, Land Degradation",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2
+"Mitigation","Industries","SLCPs",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Mitigation","Industries","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

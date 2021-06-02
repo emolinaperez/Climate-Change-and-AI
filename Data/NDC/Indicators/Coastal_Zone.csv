@@ -1,17 +1,17 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Coastal Zone","No specified measure",251
-"Adaptation","Coastal Zone","Coastal Management",70
-"Adaptation","Coastal Zone","Coastal Management, Mangroves",12
-"Adaptation","Coastal Zone","Coastal Management, Mangroves, Sea-level Rise Protection",10
-"Adaptation","Coastal Zone","Coastal Fisheries, Coastal Management, Sea-level Rise Protection",6
-"Adaptation","Coastal Zone","Coastal Management, Sea-level Rise Protection",6
-"Adaptation","Coastal Zone","Sea-level Rise Protection",5
-"Adaptation","Coastal Zone","Coastal Management, Sea-level Rise Protection, Capacity Building and Knowledge Transfer",4
-"Adaptation","Coastal Zone","Coastal Fisheries",3
-"Adaptation","Coastal Zone","Mangroves",3
-"Adaptation","Coastal Zone","Coastal Fisheries, Coastal Management",2
-"Adaptation","Coastal Zone","Coastal Fisheries, Mangroves, Sea-level Rise Protection",2
-"Adaptation","Coastal Zone","Coastal Management, Capacity Building and Knowledge Transfer",2
-"Adaptation","Coastal Zone","Sea-level Rise Protection, Capacity Building and Knowledge Transfer",2
-"Adaptation","Coastal Zone","Coastal Zone: General",1
-"Adaptation","Coastal Zone","No Document Submitted",1
+"global_category","indicator_name","value","count","Coastal Management"," Mangroves"," Sea-level Rise Protection","Coastal Fisheries"," Coastal Management","Sea-level Rise Protection"," Capacity Building and Knowledge Transfer","Mangroves","Coastal Zone: General","GlobalScore"
+"Adaptation","Coastal Zone","No specified measure",251,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Coastal Zone","Coastal Management",70,1,0,0,0,0,0,0,0,0,1
+"Adaptation","Coastal Zone","Coastal Management, Mangroves",12,1,1,0,0,0,0,0,1,0,3
+"Adaptation","Coastal Zone","Coastal Management, Mangroves, Sea-level Rise Protection",10,1,1,1,0,0,1,0,1,0,5
+"Adaptation","Coastal Zone","Coastal Fisheries, Coastal Management, Sea-level Rise Protection",6,1,0,1,1,1,1,0,0,0,5
+"Adaptation","Coastal Zone","Coastal Management, Sea-level Rise Protection",6,1,0,1,0,0,1,0,0,0,3
+"Adaptation","Coastal Zone","Sea-level Rise Protection",5,0,0,0,0,0,1,0,0,0,1
+"Adaptation","Coastal Zone","Coastal Management, Sea-level Rise Protection, Capacity Building and Knowledge Transfer",4,1,0,1,0,0,1,1,0,0,4
+"Adaptation","Coastal Zone","Coastal Fisheries",3,0,0,0,1,0,0,0,0,0,1
+"Adaptation","Coastal Zone","Mangroves",3,0,0,0,0,0,0,0,1,0,1
+"Adaptation","Coastal Zone","Coastal Fisheries, Coastal Management",2,1,0,0,1,1,0,0,0,0,3
+"Adaptation","Coastal Zone","Coastal Fisheries, Mangroves, Sea-level Rise Protection",2,0,1,1,1,0,1,0,1,0,5
+"Adaptation","Coastal Zone","Coastal Management, Capacity Building and Knowledge Transfer",2,1,0,0,0,0,0,1,0,0,2
+"Adaptation","Coastal Zone","Sea-level Rise Protection, Capacity Building and Knowledge Transfer",2,0,0,0,0,0,1,1,0,0,2
+"Adaptation","Coastal Zone","Coastal Zone: General",1,0,0,0,0,0,0,0,0,1,1
+"Adaptation","Coastal Zone","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0

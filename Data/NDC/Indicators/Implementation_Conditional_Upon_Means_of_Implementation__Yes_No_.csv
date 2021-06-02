@@ -1,4 +1,4 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Implementation Conditional Upon Means of Implementation (Yes/No)","Yes",204
-"Adaptation","Implementation Conditional Upon Means of Implementation (Yes/No)","No",13
-"Adaptation","Implementation Conditional Upon Means of Implementation (Yes/No)","Not Specified",5
+"global_category","indicator_name","value","count","Yes","No","Not Specified","GlobalScore"
+"Adaptation","Implementation Conditional Upon Means of Implementation (Yes/No)","Yes",204,1,0,0,1
+"Adaptation","Implementation Conditional Upon Means of Implementation (Yes/No)","No",13,0,1,0,1
+"Adaptation","Implementation Conditional Upon Means of Implementation (Yes/No)","Not Specified",5,0,1,1,2

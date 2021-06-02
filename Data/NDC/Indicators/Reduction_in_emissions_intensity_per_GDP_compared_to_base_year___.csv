@@ -1,13 +1,13 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.1",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.3",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.36",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.41",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.43",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.45",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.66",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.75",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-33% to -35%",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-35% to -45% intensity per GDP unit excl. LULUCF",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-60% to -65%",2
-"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-64 to -65%",2
+"global_category","indicator_name","value","count","-0.1","-0.3","-0.36","-0.41","-0.43","-0.45","-0.66","-0.75","-33% to -35%","-35% to -45% intensity per GDP unit excl. LULUCF","-60% to -65%","-64 to -65%","GlobalScore"
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.1",2,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.3",2,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.36",2,0,1,1,0,0,0,0,0,0,0,0,0,2
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.41",2,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.43",2,0,0,0,0,1,0,0,0,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.45",2,0,0,0,0,0,1,0,0,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.66",2,0,0,0,0,0,0,1,0,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-0.75",2,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-33% to -35%",2,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-35% to -45% intensity per GDP unit excl. LULUCF",2,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-60% to -65%",2,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Mitigation","Reduction in emissions intensity per GDP compared to base year (%)","-64 to -65%",2,0,0,0,0,0,0,0,0,0,0,0,1,1

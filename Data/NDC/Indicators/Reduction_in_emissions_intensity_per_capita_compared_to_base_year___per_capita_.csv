@@ -1,5 +1,5 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-0.25",2
-"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-0.26",2
-"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-25% to -35%",2
-"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-50% to -52%",2
+"global_category","indicator_name","value","count","-0.25","-0.26","-25% to -35%","-50% to -52%","GlobalScore"
+"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-0.25",2,1,0,0,0,1
+"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-0.26",2,0,1,0,0,1
+"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-25% to -35%",2,0,0,1,0,1
+"Mitigation","Reduction in emissions intensity per capita compared to base year (% per capita)","-50% to -52%",2,0,0,0,1,1

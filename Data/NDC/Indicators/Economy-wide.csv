@@ -1,4 +1,4 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Economy-wide","No specified measure",292
-"Mitigation","Economy-wide","Economy-wide: General",88
-"Mitigation","Economy-wide","No Document Submitted",1
+"global_category","indicator_name","value","count","Economy-wide: General","GlobalScore"
+"Mitigation","Economy-wide","No specified measure",292,0,0
+"Mitigation","Economy-wide","Economy-wide: General",88,1,1
+"Mitigation","Economy-wide","No Document Submitted",1,0,0

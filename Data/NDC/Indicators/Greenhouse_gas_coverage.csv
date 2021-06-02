@@ -1,6 +1,6 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Greenhouse gas coverage","Not Applicable",39
-"Mitigation","Greenhouse gas coverage","Not Specified",17
-"Mitigation","Greenhouse gas coverage","Seven Kyoto Gases: CO2, CH4, N2O, HFCs, PFCs, SF6, NF3",12
-"Mitigation","Greenhouse gas coverage","Six Kyoto Gases: CO2, CH4, N2O, HFCs, PFCs, SF6",3
-"Mitigation","Greenhouse gas coverage","Partial Gases: CO2",2
+"global_category","indicator_name","value","count","Not Applicable","Not Specified","Seven Kyoto Gases: CO2"," CH4"," N2O"," HFCs"," PFCs"," SF6"," NF3","Six Kyoto Gases: CO2","Partial Gases: CO2","GlobalScore"
+"Mitigation","Greenhouse gas coverage","Not Applicable",39,1,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Greenhouse gas coverage","Not Specified",17,0,1,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Greenhouse gas coverage","Seven Kyoto Gases: CO2, CH4, N2O, HFCs, PFCs, SF6, NF3",12,0,0,1,1,1,1,1,1,1,0,0,7
+"Mitigation","Greenhouse gas coverage","Six Kyoto Gases: CO2, CH4, N2O, HFCs, PFCs, SF6",3,0,0,0,1,1,1,1,1,0,1,0,6
+"Mitigation","Greenhouse gas coverage","Partial Gases: CO2",2,0,0,0,0,0,0,0,0,0,0,1,1

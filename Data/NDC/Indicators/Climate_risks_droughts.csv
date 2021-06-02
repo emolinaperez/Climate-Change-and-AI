@@ -1,7 +1,7 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Climate risks: droughts","Droughts not mentioned",183
-"Adaptation","Climate risks: droughts","Droughts mentioned",163
-"Adaptation","Climate risks: droughts","#N/A",28
-"Adaptation","Climate risks: droughts","droughts mentioned as climate risk",5
-"Adaptation","Climate risks: droughts","Extreme events not mentioned",1
-"Adaptation","Climate risks: droughts","No Document Submitted",1
+"global_category","indicator_name","value","count","Droughts not mentioned","Droughts mentioned","#N/A","droughts mentioned as climate risk","Extreme events not mentioned","GlobalScore"
+"Adaptation","Climate risks: droughts","Droughts not mentioned",183,1,0,0,0,0,1
+"Adaptation","Climate risks: droughts","Droughts mentioned",163,0,1,0,0,0,1
+"Adaptation","Climate risks: droughts","#N/A",28,0,0,1,0,0,1
+"Adaptation","Climate risks: droughts","droughts mentioned as climate risk",5,0,0,0,1,0,1
+"Adaptation","Climate risks: droughts","Extreme events not mentioned",1,0,0,0,0,1,1
+"Adaptation","Climate risks: droughts","No Document Submitted",1,0,0,0,0,0,0

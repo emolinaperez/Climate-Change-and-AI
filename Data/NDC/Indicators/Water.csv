@@ -1,47 +1,47 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Water","No specified measure",177
-"Adaptation","Water","Water Management",52
-"Adaptation","Water","Water Supply",24
-"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management",12
-"Adaptation","Water","Water Conservation and Reuse, Water Management",8
-"Adaptation","Water","Water Conservation and Reuse, Water Management, Water Supply",8
-"Adaptation","Water","Water Conservation and Reuse",7
-"Adaptation","Water","Water Management, Water Quality, Water Supply",6
-"Adaptation","Water","Water Management, Water Supply",6
-"Adaptation","Water","Wastewater Treatment, Water Management",4
-"Adaptation","Water","Water Conservation and Reuse, Water Management, Water Quality",4
-"Adaptation","Water","Water Conservation and Reuse, Water Quality",4
-"Adaptation","Water","Water Conservation and Reuse, Water Supply",4
-"Adaptation","Water","Water Infrastructure",4
-"Adaptation","Water","Water Infrastructure, Water Management",4
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse",2
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management",2
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management, Water Quality, Water Supply",2
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management, Water Supply, Agriculture: General",2
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Infrastructure",2
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Management, Water Supply",2
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Supply",2
-"Adaptation","Water","Wastewater Treatment, Water Quality, Water Sanitation, Water Supply",2
-"Adaptation","Water","Wastewater Treatment, Water supply , Water Management, Water Sanitation",2
-"Adaptation","Water","Water Conservation and Reuse, Water Efficiency, Water Infrastructure",2
-"Adaptation","Water","Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Management, Water Quality, Water Supply",2
-"Adaptation","Water","Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Quality, Water Sanitation, Water Supply",2
-"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Quality",2
-"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Quality, Water Supply",2
-"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Sanitation",2
-"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Supply",2
-"Adaptation","Water","Water Efficiency",2
-"Adaptation","Water","Water Efficiency, Water Infrastructure",2
-"Adaptation","Water","Water Efficiency, Water Infrastructure, Water Management, Water Supply",2
-"Adaptation","Water","Water Efficiency, Water Quality, Water Supply",2
-"Adaptation","Water","Water Infrastructure, Water Management, Water Supply",2
-"Adaptation","Water","Water Infrastructure, Water Quality",2
-"Adaptation","Water","Water Management, Water Quality",2
-"Adaptation","Water","Water Management, Water Quality, Water Supply, Agriculture: General, Agriculture: General",2
-"Adaptation","Water","Water Management, Water supply, Water Infrastructure",2
-"Adaptation","Water","Water Quality",2
-"Adaptation","Water","No Document Submitted",1
-"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Management",1
-"Adaptation","Water","Water Supply, Waste-to-Energy, Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Management",1
-"Adaptation","Water","Water: General, Water conservation and reuse",1
-"Adaptation","Water","Water: General, Water Sanitation, Water Infrastructure",1
+"global_category","indicator_name","value","count","Water Management","Water Supply","Water Conservation and Reuse"," Water Infrastructure"," Water Management"," Water Supply"," Water Quality","Wastewater Treatment","Water Infrastructure"," Water Conservation and Reuse"," Water Efficiency"," Agriculture: General"," Water Sanitation"," Water supply ","Water Efficiency"," Water supply","Water Quality"," Waste-to-Energy"," Wastewater Treatment","Water: General"," Water conservation and reuse","GlobalScore"
+"Adaptation","Water","No specified measure",177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Water","Water Management",52,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Water","Water Supply",24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management",12,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Water","Water Conservation and Reuse, Water Management",8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Water","Water Conservation and Reuse, Water Management, Water Supply",8,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Water","Water Conservation and Reuse",7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Water","Water Management, Water Quality, Water Supply",6,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+"Adaptation","Water","Water Management, Water Supply",6,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Water","Wastewater Treatment, Water Management",4,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Water","Water Conservation and Reuse, Water Management, Water Quality",4,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+"Adaptation","Water","Water Conservation and Reuse, Water Quality",4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+"Adaptation","Water","Water Conservation and Reuse, Water Supply",4,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Water","Water Infrastructure",4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Water","Water Infrastructure, Water Management",4,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse",2,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management",2,1,0,1,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,7
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management, Water Quality, Water Supply",2,1,1,1,0,1,1,1,1,0,1,1,0,0,0,1,0,1,0,0,0,0,11
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management, Water Supply, Agriculture: General",2,1,1,1,0,1,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,10
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Infrastructure",2,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Management, Water Supply",2,1,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,7
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Supply",2,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Water","Wastewater Treatment, Water Quality, Water Sanitation, Water Supply",2,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,6
+"Adaptation","Water","Wastewater Treatment, Water supply , Water Management, Water Sanitation",2,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,6
+"Adaptation","Water","Water Conservation and Reuse, Water Efficiency, Water Infrastructure",2,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,5
+"Adaptation","Water","Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Management, Water Quality, Water Supply",2,1,1,1,1,1,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,11
+"Adaptation","Water","Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Quality, Water Sanitation, Water Supply",2,0,1,1,1,0,1,1,0,1,0,1,0,1,0,1,0,1,0,0,0,0,10
+"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Quality",2,1,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,7
+"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Quality, Water Supply",2,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,9
+"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Sanitation",2,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,6
+"Adaptation","Water","Water Conservation and Reuse, Water Infrastructure, Water Management, Water Supply",2,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Adaptation","Water","Water Efficiency",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"Adaptation","Water","Water Efficiency, Water Infrastructure",2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+"Adaptation","Water","Water Efficiency, Water Infrastructure, Water Management, Water Supply",2,1,1,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,7
+"Adaptation","Water","Water Efficiency, Water Quality, Water Supply",2,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,5
+"Adaptation","Water","Water Infrastructure, Water Management, Water Supply",2,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Water","Water Infrastructure, Water Quality",2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,3
+"Adaptation","Water","Water Management, Water Quality",2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+"Adaptation","Water","Water Management, Water Quality, Water Supply, Agriculture: General, Agriculture: General",2,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6
+"Adaptation","Water","Water Management, Water supply, Water Infrastructure",2,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4
+"Adaptation","Water","Water Quality",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Adaptation","Water","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Water","Wastewater Treatment, Water Conservation and Reuse, Water Management",1,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Water","Water Supply, Waste-to-Energy, Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Management",1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,1,0,0,1,1,0,0,12
+"Adaptation","Water","Water: General, Water conservation and reuse",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+"Adaptation","Water","Water: General, Water Sanitation, Water Infrastructure",1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,4

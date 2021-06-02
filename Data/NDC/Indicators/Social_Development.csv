@@ -1,15 +1,15 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Social Development","No specified measure",313
-"Adaptation","Social Development","Poverty Reduction",30
-"Adaptation","Social Development","Gender",12
-"Adaptation","Social Development","Safety Net",8
-"Adaptation","Social Development","Gender, Poverty Reduction",4
-"Adaptation","Social Development","Gender, Poverty Reduction, Safety Net",2
-"Adaptation","Social Development","Poverty Reduction, Road Sector",2
-"Adaptation","Social Development","Poverty Reduction, Transportation Fuels",2
-"Adaptation","Social Development","Poverty Reduction, Water Management",2
-"Adaptation","Social Development","Social development",2
-"Adaptation","Social Development","No Document Submitted",1
-"Adaptation","Social Development","Poverty reduction",1
-"Adaptation","Social Development","Social Development: General",1
-"Adaptation","Social Development","Subsidies",1
+"global_category","indicator_name","value","count","Poverty Reduction","Gender","Safety Net"," Poverty Reduction"," Safety Net"," Road Sector"," Transportation Fuels"," Water Management","Social development","Poverty reduction","Social Development: General","Subsidies","GlobalScore"
+"Adaptation","Social Development","No specified measure",313,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Social Development","Poverty Reduction",30,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Social Development","Gender",12,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Social Development","Safety Net",8,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Social Development","Gender, Poverty Reduction",4,1,1,0,1,0,0,0,0,0,0,0,0,3
+"Adaptation","Social Development","Gender, Poverty Reduction, Safety Net",2,1,1,1,1,1,0,0,0,0,0,0,0,5
+"Adaptation","Social Development","Poverty Reduction, Road Sector",2,1,0,0,0,0,1,0,0,0,0,0,0,2
+"Adaptation","Social Development","Poverty Reduction, Transportation Fuels",2,1,0,0,0,0,0,1,0,0,0,0,0,2
+"Adaptation","Social Development","Poverty Reduction, Water Management",2,1,0,0,0,0,0,0,1,0,0,0,0,2
+"Adaptation","Social Development","Social development",2,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Adaptation","Social Development","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Social Development","Poverty reduction",1,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Adaptation","Social Development","Social Development: General",1,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Adaptation","Social Development","Subsidies",1,0,0,0,0,0,0,0,0,0,0,0,1,1

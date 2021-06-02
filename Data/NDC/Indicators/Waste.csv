@@ -1,29 +1,29 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Waste","No specified measure",228
-"Mitigation","Waste","Waste: General",51
-"Mitigation","Waste","Solid Waste",20
-"Mitigation","Waste","Waste-to-Energy",16
-"Mitigation","Waste","Waste: General, Waste-to-Energy",7
-"Mitigation","Waste","Recycling, Reuse, Reduce, Waste: General, Waste-to-Energy",5
-"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste: General",4
-"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste: General, Waste-to-Energy, Wastewater",4
-"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Wastewater",4
-"Mitigation","Waste","Recycling, Reuse, Reduce, Waste: General",4
-"Mitigation","Waste","Solid Waste, Waste: General",4
-"Mitigation","Waste","Solid Waste, Waste: General, Waste-to-Energy, Wastewater",4
-"Mitigation","Waste","Wastewater",4
-"Mitigation","Waste","Waste-to-Energy, Wastewater",3
-"Mitigation","Waste","Recycling, Reuse, Reduce",2
-"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste: General, Waste-to-Energy",2
-"Mitigation","Waste","Recycling, Reuse, Reduce, Waste-to-Energy",2
-"Mitigation","Waste","Solid Waste, Waste: General, Wastewater",2
-"Mitigation","Waste","Solid Waste, Wastewater",2
-"Mitigation","Waste","Solid Waste, Water Conservation and Reuse, Water Management, Watershed and River Basin Management",2
-"Mitigation","Waste","Solid Waste, Water Management, Watershed and River Basin Management, Agricultural Waste",2
-"Mitigation","Waste","Waste-to-Energy, Waste: General",2
-"Mitigation","Waste","Waste: General, Wastewater",2
-"Mitigation","Waste","No Document Submitted",1
-"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste-to-Energy",1
-"Mitigation","Waste","Waste-to-Energy, Wastewater Treatment, Water Conservation and Reuse",1
-"Mitigation","Waste","Waste: General, Waste-to-Energy, Wastewater",1
-"Mitigation","Waste","Wastewater, Waste-to-Energy, Recycling, reuse, reduce, Waste: General",1
+"global_category","indicator_name","value","count","Waste: General","Solid Waste","Waste-to-Energy"," Waste-to-Energy","Recycling"," Reuse"," Reduce"," Waste: General"," Solid Waste"," Wastewater","Wastewater"," Water Conservation and Reuse"," Water Management"," Watershed and River Basin Management"," Agricultural Waste"," Wastewater Treatment"," Recycling"," reuse"," reduce","GlobalScore"
+"Mitigation","Waste","No specified measure",228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","Waste","Waste: General",51,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Waste","Solid Waste",20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Waste","Waste-to-Energy",16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Waste","Waste: General, Waste-to-Energy",7,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","Recycling, Reuse, Reduce, Waste: General, Waste-to-Energy",5,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste: General",4,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste: General, Waste-to-Energy, Wastewater",4,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,11
+"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Wastewater",4,0,1,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,7
+"Mitigation","Waste","Recycling, Reuse, Reduce, Waste: General",4,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Waste","Solid Waste, Waste: General",4,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","Solid Waste, Waste: General, Waste-to-Energy, Wastewater",4,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,7
+"Mitigation","Waste","Wastewater",4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Mitigation","Waste","Waste-to-Energy, Wastewater",3,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","Recycling, Reuse, Reduce",2,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste: General, Waste-to-Energy",2,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Waste","Recycling, Reuse, Reduce, Waste-to-Energy",2,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Waste","Solid Waste, Waste: General, Wastewater",2,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,5
+"Mitigation","Waste","Solid Waste, Wastewater",2,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","Solid Waste, Water Conservation and Reuse, Water Management, Watershed and River Basin Management",2,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,5
+"Mitigation","Waste","Solid Waste, Water Management, Watershed and River Basin Management, Agricultural Waste",2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,4
+"Mitigation","Waste","Waste-to-Energy, Waste: General",2,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","Waste: General, Wastewater",2,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3
+"Mitigation","Waste","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","Waste","Recycling, Reuse, Reduce, Solid Waste, Waste-to-Energy",1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Waste","Waste-to-Energy, Wastewater Treatment, Water Conservation and Reuse",1,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,6
+"Mitigation","Waste","Waste: General, Waste-to-Energy, Wastewater",1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,5
+"Mitigation","Waste","Wastewater, Waste-to-Energy, Recycling, reuse, reduce, Waste: General",1,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,9

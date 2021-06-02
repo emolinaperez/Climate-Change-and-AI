@@ -1,5 +1,5 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Tourism","No specified measure",334
-"Adaptation","Tourism","Tourism: General",35
-"Adaptation","Tourism","Tourism",11
-"Adaptation","Tourism","No Document Submitted",1
+"global_category","indicator_name","value","count","Tourism: General","Tourism","GlobalScore"
+"Adaptation","Tourism","No specified measure",334,0,0,0
+"Adaptation","Tourism","Tourism: General",35,1,1,2
+"Adaptation","Tourism","Tourism",11,0,1,1
+"Adaptation","Tourism","No Document Submitted",1,0,0,0

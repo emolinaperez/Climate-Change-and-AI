@@ -1,6 +1,5 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Buildings","No specified measure",310
-"","Buildings","No Sectoral Measure Specified",197
-"Mitigation","Buildings","Buildings",69
-"Mitigation","Buildings","Buildings: General",1
-"Mitigation","Buildings","No Document Submitted",1
+"global_category","indicator_name","value","count","Buildings","Buildings: General","GlobalScore"
+"Mitigation","Buildings","No specified measure",310,0,0,0
+"Mitigation","Buildings","Buildings",69,1,0,1
+"Mitigation","Buildings","Buildings: General",1,1,1,2
+"Mitigation","Buildings","No Document Submitted",1,0,0,0

@@ -1,14 +1,14 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Sector coverage","Not Applicable",39
-"Mitigation","Sector coverage","Not Specified",15
-"Mitigation","Sector coverage","All Sectors including LULUCF: All IPCC sectors",8
-"Mitigation","Sector coverage","All Sectors including LULUCF: All IPCC sources and sectors",2
-"Mitigation","Sector coverage","All Sectors excluding LULUCF: Energy, IPPU, agriculture, waste, aviation",1
-"Mitigation","Sector coverage","All Sectors excluding LULUCF: Energy, transport, IPPU, agriculture, waste",1
-"Mitigation","Sector coverage","All Sectors including LULUCF: All IPCC sectors: Energy, Transport, Industry/Industrial processes, Agriculture, Forestry/LULUCF, Waste Management/Waste, Other (fugitive)",1
-"Mitigation","Sector coverage","All Sectors including LULUCF: Energy, IPPU, agriculture, LULUCF, waste",1
-"Mitigation","Sector coverage","All Sectors including LULUCF: Energy, IPPU, agriculture, LULUCF, waste, aviation",1
-"Mitigation","Sector coverage","Partial Sectors: Energy and transport",1
-"Mitigation","Sector coverage","Partial Sectors: Excluding Agriculture",1
-"Mitigation","Sector coverage","Partial Sectors: Forestry, Agriculture, Energy, Industry",1
-"Mitigation","Sector coverage","Partial Sectors: Transport, Energy, Forestry, Waste management",1
+"global_category","indicator_name","value","count","Not Applicable","Not Specified","All Sectors including LULUCF: All IPCC sectors","All Sectors including LULUCF: All IPCC sources and sectors","All Sectors excluding LULUCF: Energy"," IPPU"," agriculture"," waste"," aviation"," transport","All Sectors including LULUCF: All IPCC sectors: Energy"," Transport"," Industry/Industrial processes"," Agriculture"," Forestry/LULUCF"," Waste Management/Waste"," Other (fugitive)","All Sectors including LULUCF: Energy"," LULUCF","Partial Sectors: Energy and transport","Partial Sectors: Excluding Agriculture","Partial Sectors: Forestry"," Energy"," Industry","Partial Sectors: Transport"," Forestry"," Waste management","GlobalScore"
+"Mitigation","Sector coverage","Not Applicable",39,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Sector coverage","Not Specified",15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Sector coverage","All Sectors including LULUCF: All IPCC sectors",8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Mitigation","Sector coverage","All Sectors including LULUCF: All IPCC sources and sectors",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Mitigation","Sector coverage","All Sectors excluding LULUCF: Energy, IPPU, agriculture, waste, aviation",1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+"Mitigation","Sector coverage","All Sectors excluding LULUCF: Energy, transport, IPPU, agriculture, waste",1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,7
+"Mitigation","Sector coverage","All Sectors including LULUCF: All IPCC sectors: Energy, Transport, Industry/Industrial processes, Agriculture, Forestry/LULUCF, Waste Management/Waste, Other (fugitive)",1,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1,0,12
+"Mitigation","Sector coverage","All Sectors including LULUCF: Energy, IPPU, agriculture, LULUCF, waste",1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,6
+"Mitigation","Sector coverage","All Sectors including LULUCF: Energy, IPPU, agriculture, LULUCF, waste, aviation",1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,7
+"Mitigation","Sector coverage","Partial Sectors: Energy and transport",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3
+"Mitigation","Sector coverage","Partial Sectors: Excluding Agriculture",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+"Mitigation","Sector coverage","Partial Sectors: Forestry, Agriculture, Energy, Industry",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,5
+"Mitigation","Sector coverage","Partial Sectors: Transport, Energy, Forestry, Waste management",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,5

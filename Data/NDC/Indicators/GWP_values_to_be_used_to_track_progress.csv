@@ -1,7 +1,7 @@
-"global_category","indicator_name","value","count"
-"Mitigation","GWP values to be used to track progress","Not Assessed",39
-"Mitigation","GWP values to be used to track progress","Not Specified",19
-"Mitigation","GWP values to be used to track progress","AR4",7
-"Mitigation","GWP values to be used to track progress","AR2",6
-"Mitigation","GWP values to be used to track progress","AR2 and AR4",1
-"Mitigation","GWP values to be used to track progress","AR2 and AR4 (NF3)",1
+"global_category","indicator_name","value","count","Not Assessed","Not Specified","AR4","AR2","AR2 and AR4","AR2 and AR4 (NF3)","GlobalScore"
+"Mitigation","GWP values to be used to track progress","Not Assessed",39,1,0,0,0,0,0,1
+"Mitigation","GWP values to be used to track progress","Not Specified",19,0,1,0,0,0,0,1
+"Mitigation","GWP values to be used to track progress","AR4",7,0,0,1,0,0,0,1
+"Mitigation","GWP values to be used to track progress","AR2",6,0,0,0,1,0,0,1
+"Mitigation","GWP values to be used to track progress","AR2 and AR4",1,0,0,1,1,1,0,3
+"Mitigation","GWP values to be used to track progress","AR2 and AR4 (NF3)",1,0,0,1,1,1,1,4

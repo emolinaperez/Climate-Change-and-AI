@@ -1,8 +1,8 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Climate risks: floods","Floods mentioned",175
-"Adaptation","Climate risks: floods","Floods not mentioned",174
-"Adaptation","Climate risks: floods","#N/A",28
-"Adaptation","Climate risks: floods","Extreme events not mentioned",1
-"Adaptation","Climate risks: floods","floods mentioned as climate risk",1
-"Adaptation","Climate risks: floods","Floods mentioned as climate risk",1
-"Adaptation","Climate risks: floods","No Document Submitted",1
+"global_category","indicator_name","value","count","Floods mentioned","Floods not mentioned","#N/A","Extreme events not mentioned","floods mentioned as climate risk","Floods mentioned as climate risk","GlobalScore"
+"Adaptation","Climate risks: floods","Floods mentioned",175,1,0,0,0,0,0,1
+"Adaptation","Climate risks: floods","Floods not mentioned",174,0,1,0,0,0,0,1
+"Adaptation","Climate risks: floods","#N/A",28,0,0,1,0,0,0,1
+"Adaptation","Climate risks: floods","Extreme events not mentioned",1,0,0,0,1,0,0,1
+"Adaptation","Climate risks: floods","floods mentioned as climate risk",1,0,0,0,0,1,0,1
+"Adaptation","Climate risks: floods","Floods mentioned as climate risk",1,1,0,0,0,0,1,2
+"Adaptation","Climate risks: floods","No Document Submitted",1,0,0,0,0,0,0,0

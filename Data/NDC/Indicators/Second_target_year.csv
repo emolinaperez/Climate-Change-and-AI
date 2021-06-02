@@ -1,9 +1,9 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Second target year","2025",26
-"Mitigation","Second target year","2030",11
-"Mitigation","Second target year","2050",11
-"Mitigation","Second target year","2020",3
-"Mitigation","Second target year","2024",2
-"Mitigation","Second target year","2035",2
-"Mitigation","Second target year","2021-2030",1
-"Mitigation","Second target year","2030 (non-binding)",1
+"global_category","indicator_name","value","count","2025","2030","2050","2020","2024","2035","2021-2030","2030 (non-binding)","GlobalScore"
+"Mitigation","Second target year","2025",26,1,0,0,0,0,0,0,0,1
+"Mitigation","Second target year","2030",11,0,1,0,0,0,0,0,0,1
+"Mitigation","Second target year","2050",11,0,0,1,0,0,0,0,0,1
+"Mitigation","Second target year","2020",3,0,0,0,1,0,0,0,0,1
+"Mitigation","Second target year","2024",2,0,0,0,0,1,0,0,0,1
+"Mitigation","Second target year","2035",2,0,0,0,0,0,1,0,0,1
+"Mitigation","Second target year","2021-2030",1,0,1,0,0,0,0,1,0,2
+"Mitigation","Second target year","2030 (non-binding)",1,0,1,0,0,0,0,0,1,2

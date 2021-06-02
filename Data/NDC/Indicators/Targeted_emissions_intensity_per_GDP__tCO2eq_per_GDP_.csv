@@ -1,5 +1,5 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","n/a",4
-"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","0.113 kgCO2e/S$",2
-"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","0.491 kg CO2e",2
-"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","0.56-0.66 tCO2e/million CLP$",2
+"global_category","indicator_name","value","count","n/a","0.113 kgCO2e/S$","0.491 kg CO2e","0.56-0.66 tCO2e/million CLP$","GlobalScore"
+"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","n/a",4,1,0,0,0,1
+"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","0.113 kgCO2e/S$",2,0,1,0,0,1
+"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","0.491 kg CO2e",2,0,0,1,0,1
+"Mitigation","Targeted emissions intensity per GDP (tCO2eq per GDP)","0.56-0.66 tCO2e/million CLP$",2,0,0,0,1,1

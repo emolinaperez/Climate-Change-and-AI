@@ -1,16 +1,16 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Base year","1990",125
-"Mitigation","Base year","2005",44
-"Mitigation","Base year","2010",37
-"Mitigation","Base year","2013",6
-"Mitigation","Base year","2008",4
-"Mitigation","Base year","2014",4
-"Mitigation","Base year","n/a",4
-"Mitigation","Base year","2006",3
-"Mitigation","Base year","1994",2
-"Mitigation","Base year","2000",2
-"Mitigation","Base year","2011",2
-"Mitigation","Base year","2012",2
-"Mitigation","Base year","2014 | 1990",2
-"Mitigation","Base year","2015",1
-"Mitigation","Base year","2017",1
+"global_category","indicator_name","value","count","1990","2005","2010","2013","2008","2014","n/a","2006","1994","2000","2011","2012","2014 | 1990","2015","2017","GlobalScore"
+"Mitigation","Base year","1990",125,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","2005",44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","2010",37,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","2013",6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","2008",4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","2014",4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","n/a",4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Mitigation","Base year","2006",3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"Mitigation","Base year","1994",2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"Mitigation","Base year","2000",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"Mitigation","Base year","2011",2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Mitigation","Base year","2012",2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Mitigation","Base year","2014 | 1990",2,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,3
+"Mitigation","Base year","2015",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Mitigation","Base year","2017",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1

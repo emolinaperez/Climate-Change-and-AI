@@ -1,69 +1,69 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Transport","No specified measure",316
-"Mitigation","Transport","No specified measure",182
-"Adaptation","Transport","Infrastructure and Roads",49
-"Mitigation","Transport","Transport: General",27
-"Mitigation","Transport","Transport: General, Vehicle Fleet",14
-"Mitigation","Transport","Vehicle Fleet",14
-"Mitigation","Transport","Public Transport",12
-"Mitigation","Transport","Transport: General, Transportation Fuels",12
-"Adaptation","Transport","Sustainable Transport Planning",8
-"Mitigation","Transport","Urban Transport",8
-"Mitigation","Transport","Transportation Fuels",6
-"Mitigation","Transport","Public Transport, Transport: General",4
-"Mitigation","Transport","Public Transport, Transport: General, Vehicle Fleet",4
-"Mitigation","Transport","Transportation Fuels, Transportation Infrastructure",4
-"Mitigation","Transport","Transportation Fuels, Vehicle Fleet",4
-"Mitigation","Transport","Aviation, Freight Vehicles, Infrastructure and Roads, Rail, Road Sector",2
-"Mitigation","Transport","Aviation, Infrastructure and Roads",2
-"Mitigation","Transport","Aviation, Maritime, Public Transport, Rail, Vehicle Fleet",2
-"Mitigation","Transport","BRT, Public Transport",2
-"Mitigation","Transport","BRT, Public Transport, Rail, Transport: General, Vehicle Fleet",2
-"Mitigation","Transport","BRT, Vehicle Fleet",2
-"Mitigation","Transport","Freight Regulation, Inland Waterways, Road Sector, Transit-Oriented Development, Transport: General, Transportation Fuels, Transportation Infrastructure, Vehicle Fleet",2
-"Mitigation","Transport","Freight Vehicles, Fuels In Freight Transport, Infrastructure and Roads, Non-Motorized Transport, Public Transport, Transit-Oriented Development, Transport: General",2
-"Mitigation","Transport","Freight Vehicles, Inland Waterways, Rail, Transit-Oriented Development, Transport: General",2
-"Mitigation","Transport","Freight Vehicles, Public Transport, Road Sector",2
-"Adaptation","Transport","Infrastructure and roads",2
-"Adaptation","Transport","Infrastructure and Roads, Sustainable Transport Planning",2
-"Mitigation","Transport","Inland Waterways, Transport: General, Transportation Fuels, Vehicle Fleet",2
-"Mitigation","Transport","Maritime, Public Transport",2
-"Mitigation","Transport","Non-Motorized Transport, Public Transport, Transport: General, Vehicle Fleet",2
-"Mitigation","Transport","Non-Motorized Transport, Rail, Road Sector, Transport: General, Vehicle Fleet",2
-"Mitigation","Transport","Non-Motorized Transport, Road Sector, Transport: General, Urban Transport, Vehicle Fleet",2
-"Mitigation","Transport","Non-Motorized Transport, Transportation Fuels, Urban Transport, Vehicle Fleet",2
-"Mitigation","Transport","Public Transport, Rail",2
-"Mitigation","Transport","Public Transport, Rail, Road Sector, Urban Transport",2
-"Mitigation","Transport","Public Transport, Rail, Vehicle Fleet",2
-"Mitigation","Transport","Public Transport, Road Sector, Transport: General, Transportation Fuels",2
-"Mitigation","Transport","Public Transport, Road Sector, Transport: General, Transportation Fuels, Vehicle Fleet",2
-"Mitigation","Transport","Public Transport, Transport: General, Freight Vehicles",2
-"Mitigation","Transport","Public Transport, Transport: General, Transportation Planning",2
-"Mitigation","Transport","Public Transport, Transportation Fuels",2
-"Mitigation","Transport","Public Transport, Transportation Fuels, Vehicle Fleet",2
-"Mitigation","Transport","Public Transport, Vehicle Fleet",2
-"Mitigation","Transport","Rail, Transport: General, Transportation Fuels, Transportation Planning",2
-"Mitigation","Transport","Rail, Urban Transport",2
-"Mitigation","Transport","Rail, Vehicle Fleet",2
-"Mitigation","Transport","Road Sector, Sustainable Urban Planning, Waste Management, Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management",2
-"Mitigation","Transport","Road Sector, Vehicle Fleet, Sustainable Urban Planning, Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Management, Water Quality, Water Supply, Agroecology, Crops, Fertilizers",2
-"Mitigation","Transport","Road Sector, Vehicle Fleet, Water Conservation and Reuse",2
-"Mitigation","Transport","Transit-Oriented Development",2
-"Mitigation","Transport","Transit-Oriented Development, Transport: General, Transportation Infrastructure",2
-"Mitigation","Transport","Transit-Oriented Development, Transportation Fuels, Vehicle Fleet",2
-"Adaptation","Transport","Transport: General",2
-"Mitigation","Transport","Transport: General, Transportation Fuels, Urban Transport, Vehicle Fleet",2
-"Mitigation","Transport","Transport: General, Transportation Planning",2
-"Mitigation","Transport","Transportation Fuels, Vehicle Fleet, Sustainable Urban Planning, Solid Waste",2
-"Mitigation","Transport","Transportation Planning",2
-"Mitigation","Transport","Vehicle Fleet, Solid Waste, Water Conservation and Reuse",2
-"Mitigation","Transport","Vehicle Fleet, Water Conservation and Reuse, Watershed and River Basin Management",2
-"Mitigation","Transport","Vehicle Fleet, Water Management, Water Quality, Water Supply",2
-"Mitigation","Transport","Aviation, Inter-Urban Transport, Public Transport, Rail, Transport: General, Vehicle Fleet",1
-"Mitigation","Transport","Aviation, Maritime, Public Transport, Rail, Road Sector, Transport: General, Transportation Fuels, Vehicle Fleet",1
-"Adaptation","Transport","Infrastructure and roads,",1
-"Adaptation","Transport","No Document Submitted",1
-"Mitigation","Transport","No Document Submitted",1
-"Mitigation","Transport","Public Transport, Transport: General, Transportation Fuels",1
-"Mitigation","Transport","Transport: General, Transportation Planning, Rail, Transportation Fuels, Vehicle Fleet",1
-"Mitigation","Transport","Transportation Fuels, Vehicle Fleet, Sustainable Urban Planning, Waste Management, Water Supply",1
+"global_category","indicator_name","value","count","Infrastructure and Roads","Transport: General"," Vehicle Fleet","Vehicle Fleet","Public Transport"," Transportation Fuels","Sustainable Transport Planning","Urban Transport","Transportation Fuels"," Transport: General"," Transportation Infrastructure","Aviation"," Freight Vehicles"," Infrastructure and Roads"," Rail"," Road Sector"," Maritime"," Public Transport","BRT","Freight Regulation"," Inland Waterways"," Transit-Oriented Development","Freight Vehicles"," Fuels In Freight Transport"," Non-Motorized Transport","Infrastructure and roads"," Sustainable Transport Planning","Inland Waterways","Maritime","Non-Motorized Transport"," Urban Transport"," Transportation Planning","Rail","Road Sector"," Sustainable Urban Planning"," Waste Management"," Wastewater Treatment"," Water Conservation and Reuse"," Water Efficiency"," Water Management"," Water Infrastructure"," Water Quality"," Water Supply"," Agroecology"," Crops"," Fertilizers","Transit-Oriented Development"," Solid Waste","Transportation Planning"," Watershed and River Basin Management"," Inter-Urban Transport","GlobalScore"
+"Adaptation","Transport","No specified measure",316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","Transport","No specified measure",182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Transport","Infrastructure and Roads",49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Transport: General",27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Transport: General, Vehicle Fleet",14,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Vehicle Fleet",14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Public Transport",12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Transport: General, Transportation Fuels",12,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Transport","Sustainable Transport Planning",8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Urban Transport",8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Transportation Fuels",6,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Public Transport, Transport: General",4,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Public Transport, Transport: General, Vehicle Fleet",4,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Transport","Transportation Fuels, Transportation Infrastructure",4,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Mitigation","Transport","Transportation Fuels, Vehicle Fleet",4,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Aviation, Freight Vehicles, Infrastructure and Roads, Rail, Road Sector",2,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Transport","Aviation, Infrastructure and Roads",2,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Aviation, Maritime, Public Transport, Rail, Vehicle Fleet",2,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Transport","BRT, Public Transport",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","BRT, Public Transport, Rail, Transport: General, Vehicle Fleet",2,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Transport","BRT, Vehicle Fleet",2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Freight Regulation, Inland Waterways, Road Sector, Transit-Oriented Development, Transport: General, Transportation Fuels, Transportation Infrastructure, Vehicle Fleet",2,0,1,1,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,14
+"Mitigation","Transport","Freight Vehicles, Fuels In Freight Transport, Infrastructure and Roads, Non-Motorized Transport, Public Transport, Transit-Oriented Development, Transport: General",2,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12
+"Mitigation","Transport","Freight Vehicles, Inland Waterways, Rail, Transit-Oriented Development, Transport: General",2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9
+"Mitigation","Transport","Freight Vehicles, Public Transport, Road Sector",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Transport","Infrastructure and roads",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Transport","Infrastructure and Roads, Sustainable Transport Planning",2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Inland Waterways, Transport: General, Transportation Fuels, Vehicle Fleet",2,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Maritime, Public Transport",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Non-Motorized Transport, Public Transport, Transport: General, Vehicle Fleet",2,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Non-Motorized Transport, Rail, Road Sector, Transport: General, Vehicle Fleet",2,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Transport","Non-Motorized Transport, Road Sector, Transport: General, Urban Transport, Vehicle Fleet",2,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Transport","Non-Motorized Transport, Transportation Fuels, Urban Transport, Vehicle Fleet",2,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Public Transport, Rail",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Public Transport, Rail, Road Sector, Urban Transport",2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Public Transport, Rail, Vehicle Fleet",2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Transport","Public Transport, Road Sector, Transport: General, Transportation Fuels",2,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Public Transport, Road Sector, Transport: General, Transportation Fuels, Vehicle Fleet",2,0,1,1,1,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","Transport","Public Transport, Transport: General, Freight Vehicles",2,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Transport","Public Transport, Transport: General, Transportation Planning",2,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+"Mitigation","Transport","Public Transport, Transportation Fuels",2,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Public Transport, Transportation Fuels, Vehicle Fleet",2,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Transport","Public Transport, Vehicle Fleet",2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Rail, Transport: General, Transportation Fuels, Transportation Planning",2,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7
+"Mitigation","Transport","Rail, Urban Transport",2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Rail, Vehicle Fleet",2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","Transport","Road Sector, Sustainable Urban Planning, Waste Management, Wastewater Treatment, Water Conservation and Reuse, Water Efficiency, Water Management",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Road Sector, Vehicle Fleet, Sustainable Urban Planning, Water Conservation and Reuse, Water Efficiency, Water Infrastructure, Water Management, Water Quality, Water Supply, Agroecology, Crops, Fertilizers",2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,13
+"Mitigation","Transport","Road Sector, Vehicle Fleet, Water Conservation and Reuse",2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Mitigation","Transport","Transit-Oriented Development",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Mitigation","Transport","Transit-Oriented Development, Transport: General, Transportation Infrastructure",2,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4
+"Mitigation","Transport","Transit-Oriented Development, Transportation Fuels, Vehicle Fleet",2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5
+"Adaptation","Transport","Transport: General",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Transport","Transport: General, Transportation Fuels, Urban Transport, Vehicle Fleet",2,0,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","Transport","Transport: General, Transportation Planning",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+"Mitigation","Transport","Transportation Fuels, Vehicle Fleet, Sustainable Urban Planning, Solid Waste",2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5
+"Mitigation","Transport","Transportation Planning",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Mitigation","Transport","Vehicle Fleet, Solid Waste, Water Conservation and Reuse",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+"Mitigation","Transport","Vehicle Fleet, Water Conservation and Reuse, Watershed and River Basin Management",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+"Mitigation","Transport","Vehicle Fleet, Water Management, Water Quality, Water Supply",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,4
+"Mitigation","Transport","Aviation, Inter-Urban Transport, Public Transport, Rail, Transport: General, Vehicle Fleet",1,0,1,1,1,1,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+"Mitigation","Transport","Aviation, Maritime, Public Transport, Rail, Road Sector, Transport: General, Transportation Fuels, Vehicle Fleet",1,0,1,1,1,1,1,0,0,1,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+"Adaptation","Transport","Infrastructure and roads,",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Transport","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","Transport","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","Transport","Public Transport, Transport: General, Transportation Fuels",1,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","Transport","Transport: General, Transportation Planning, Rail, Transportation Fuels, Vehicle Fleet",1,0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+"Mitigation","Transport","Transportation Fuels, Vehicle Fleet, Sustainable Urban Planning, Waste Management, Water Supply",1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
