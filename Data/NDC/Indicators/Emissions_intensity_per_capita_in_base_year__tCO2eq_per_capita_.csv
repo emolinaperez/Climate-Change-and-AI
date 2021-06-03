@@ -1,4 +1,4 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Emissions intensity per capita in base year (tCO2eq per capita)","10.4",2
-"Mitigation","Emissions intensity per capita in base year (tCO2eq per capita)","3.6",2
-"Mitigation","Emissions intensity per capita in base year (tCO2eq per capita)","n/a",2
+"global_category","indicator_name","value","count","10.4","3.6","n/a","GlobalScore"
+"Mitigation","Emissions intensity per capita in base year (tCO2eq per capita)","10.4",2,1,0,0,1
+"Mitigation","Emissions intensity per capita in base year (tCO2eq per capita)","3.6",2,0,1,0,1
+"Mitigation","Emissions intensity per capita in base year (tCO2eq per capita)","n/a",2,0,0,1,1

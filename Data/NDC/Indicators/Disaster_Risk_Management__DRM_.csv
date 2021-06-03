@@ -1,29 +1,29 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Disaster Risk Management (DRM)","No specified measure",212
-"Adaptation","Disaster Risk Management (DRM)","Early Warning System",31
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness",21
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Early Warning System",18
-"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery, Early Warning System",14
-"Adaptation","Disaster Risk Management (DRM)","Disaster Risk Management (DRM): General",14
-"Adaptation","Disaster Risk Management (DRM)","Monitoring and Evaluation System",11
-"Adaptation","Disaster Risk Management (DRM)","Early Warning System, Monitoring and Evaluation System",8
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery",6
-"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery",6
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Risk Management (DRM): General",4
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Early Warning System, Monitoring and Evaluation System",4
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Monitoring and Evaluation System",4
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Demand-Side Efficiency: Appliances",3
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Clean Cooking and Heating: Cleaner Household Fuels",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Demand-Side Efficiency: Appliances, Demand-Side Efficiency: Buildings",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Demand-Side Efficiency, Demand-Side Efficiency: Industries",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Early Warning System",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Early Warning System, Monitoring and Evaluation System",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Monitoring and Evaluation System",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Renewable Energy",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery, Demand-Side Efficiency: Buildings",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery, Monitoring and Evaluation System",2
-"Adaptation","Disaster Risk Management (DRM)","Disaster Risk Management (DRM): General, Monitoring and Evaluation System",2
-"Adaptation","Disaster Risk Management (DRM)","Early warning system, Disaster Risk Management (DRM): General",2
-"Adaptation","Disaster Risk Management (DRM)","Early warning system",1
-"Adaptation","Disaster Risk Management (DRM)","Early warning system, Disaster preparedness",1
-"Adaptation","Disaster Risk Management (DRM)","No Document Submitted",1
+"global_category","indicator_name","value","count","Early Warning System","Disaster Preparedness"," Early Warning System","Disaster Relief and Recovery","Disaster Risk Management (DRM): General","Monitoring and Evaluation System"," Monitoring and Evaluation System"," Disaster Relief and Recovery"," Disaster Risk Management (DRM): General"," Demand-Side Efficiency: Appliances"," Clean Cooking and Heating: Cleaner Household Fuels"," Demand-Side Efficiency: Buildings"," Demand-Side Efficiency"," Demand-Side Efficiency: Industries"," Renewable Energy","Early warning system"," Disaster preparedness","GlobalScore"
+"Adaptation","Disaster Risk Management (DRM)","No specified measure",212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Disaster Risk Management (DRM)","Early Warning System",31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness",21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Early Warning System",18,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery, Early Warning System",14,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Risk Management (DRM): General",14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Disaster Risk Management (DRM)","Monitoring and Evaluation System",11,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Disaster Risk Management (DRM)","Early Warning System, Monitoring and Evaluation System",8,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery",6,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery",6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Risk Management (DRM): General",4,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Early Warning System, Monitoring and Evaluation System",4,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Monitoring and Evaluation System",4,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Demand-Side Efficiency: Appliances",3,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Clean Cooking and Heating: Cleaner Household Fuels",2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Demand-Side Efficiency: Appliances, Demand-Side Efficiency: Buildings",2,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,4
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Demand-Side Efficiency, Demand-Side Efficiency: Industries",2,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,5
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Early Warning System",2,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Early Warning System, Monitoring and Evaluation System",2,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,7
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Disaster Relief and Recovery, Monitoring and Evaluation System",2,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,5
+"Adaptation","Disaster Risk Management (DRM)","Disaster Preparedness, Renewable Energy",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery, Demand-Side Efficiency: Buildings",2,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Relief and Recovery, Monitoring and Evaluation System",2,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Disaster Risk Management (DRM): General, Monitoring and Evaluation System",2,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Disaster Risk Management (DRM)","Early warning system, Disaster Risk Management (DRM): General",2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,3
+"Adaptation","Disaster Risk Management (DRM)","Early warning system",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Adaptation","Disaster Risk Management (DRM)","Early warning system, Disaster preparedness",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+"Adaptation","Disaster Risk Management (DRM)","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

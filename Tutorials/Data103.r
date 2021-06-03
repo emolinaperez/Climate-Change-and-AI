@@ -66,7 +66,7 @@
  explore<-explore[order(-explore$value.numeric),]
  explore
 
-## prueba 
+## this is a test
 
 # Now save all indactors in PC
  #out<-"/Users/.." # for mac users

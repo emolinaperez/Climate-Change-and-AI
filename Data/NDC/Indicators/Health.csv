@@ -1,25 +1,25 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Health","No specified measure",231
-"Adaptation","Health","Disease Surveillance and Control",38
-"Adaptation","Health","Health Services and Assessment",28
-"Adaptation","Health","Health: General",21
-"Adaptation","Health","Awareness Raising and Behavior Change, Disease Surveillance and Control, Health Services and Assessment",10
-"Adaptation","Health","Disease Surveillance and Control, Health Services and Assessment",9
-"Adaptation","Health","Awareness Raising and Behavior Change",5
-"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment",4
-"Adaptation","Health","Disease Surveillance and Control, Malnutrition",4
-"Adaptation","Health","Malnutrition",4
-"Adaptation","Health","Awareness raising and behavior change",2
-"Adaptation","Health","Awareness Raising and Behavior Change, Disease Surveillance and Control",2
-"Adaptation","Health","Awareness Raising and Behavior Change, Disease Surveillance and Control, Health Services and Assessment, Health: General",2
-"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment, Afforestation",2
-"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment, Afforestation, Grasslands",2
-"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment, Sustainable Forest Management",2
-"Adaptation","Health","Disease Surveilance and Control, Health: General, Awareness raising and behavior change, Health services and assessment",2
-"Adaptation","Health","Disease Surveillance and Control, Awareness raising and behavior change",2
-"Adaptation","Health","Disease Surveillance and Control, Health",2
-"Adaptation","Health","Disease Surveillance and Control, Health: General",2
-"Adaptation","Health","Health Services and Assessment, Grasslands",2
-"Adaptation","Health","Health Services and Assessment, Land Degradation",2
-"Adaptation","Health","Health Services and Assessment, Sustainable Forest Management",2
-"Adaptation","Health","No Document Submitted",1
+"global_category","indicator_name","value","count","Disease Surveillance and Control","Health Services and Assessment","Health: General","Awareness Raising and Behavior Change"," Disease Surveillance and Control"," Health Services and Assessment"," Malnutrition","Malnutrition","Awareness raising and behavior change"," Health: General"," Afforestation"," Grasslands"," Sustainable Forest Management","Disease Surveilance and Control"," Awareness raising and behavior change"," Health services and assessment"," Health"," Land Degradation","GlobalScore"
+"Adaptation","Health","No specified measure",231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Health","Disease Surveillance and Control",38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Health","Health Services and Assessment",28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Health","Health: General",21,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Health","Awareness Raising and Behavior Change, Disease Surveillance and Control, Health Services and Assessment",10,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,6
+"Adaptation","Health","Disease Surveillance and Control, Health Services and Assessment",9,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4
+"Adaptation","Health","Awareness Raising and Behavior Change",5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment",4,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4
+"Adaptation","Health","Disease Surveillance and Control, Malnutrition",4,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Health","Malnutrition",4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Health","Awareness raising and behavior change",2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Adaptation","Health","Awareness Raising and Behavior Change, Disease Surveillance and Control",2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","Health","Awareness Raising and Behavior Change, Disease Surveillance and Control, Health Services and Assessment, Health: General",2,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,8
+"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment, Afforestation",2,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,5
+"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment, Afforestation, Grasslands",2,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,6
+"Adaptation","Health","Awareness Raising and Behavior Change, Health Services and Assessment, Sustainable Forest Management",2,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,5
+"Adaptation","Health","Disease Surveilance and Control, Health: General, Awareness raising and behavior change, Health services and assessment",2,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,7
+"Adaptation","Health","Disease Surveillance and Control, Awareness raising and behavior change",2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3
+"Adaptation","Health","Disease Surveillance and Control, Health",2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+"Adaptation","Health","Disease Surveillance and Control, Health: General",2,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,4
+"Adaptation","Health","Health Services and Assessment, Grasslands",2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+"Adaptation","Health","Health Services and Assessment, Land Degradation",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+"Adaptation","Health","Health Services and Assessment, Sustainable Forest Management",2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+"Adaptation","Health","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

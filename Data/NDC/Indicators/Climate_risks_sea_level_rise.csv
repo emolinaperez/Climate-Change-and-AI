@@ -1,8 +1,8 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Climate risks: sea level rise","Sea level rise not included/not applicable",150
-"Adaptation","Climate risks: sea level rise","Sea level rise mentioned as climate risk",126
-"Adaptation","Climate risks: sea level rise","Sea level rise not included/not applicable: landlocked country",74
-"Adaptation","Climate risks: sea level rise","#N/A",28
-"Adaptation","Climate risks: sea level rise","Extreme events not mentioned",1
-"Adaptation","Climate risks: sea level rise","No Document Submitted",1
-"Adaptation","Climate risks: sea level rise","Sea level rise mentioned",1
+"global_category","indicator_name","value","count","Sea level rise not included/not applicable","Sea level rise mentioned as climate risk","Sea level rise not included/not applicable: landlocked country","#N/A","Extreme events not mentioned","Sea level rise mentioned","GlobalScore"
+"Adaptation","Climate risks: sea level rise","Sea level rise not included/not applicable",150,1,0,0,0,0,0,1
+"Adaptation","Climate risks: sea level rise","Sea level rise mentioned as climate risk",126,0,1,0,0,0,1,2
+"Adaptation","Climate risks: sea level rise","Sea level rise not included/not applicable: landlocked country",74,1,0,1,0,0,0,2
+"Adaptation","Climate risks: sea level rise","#N/A",28,0,0,0,1,0,0,1
+"Adaptation","Climate risks: sea level rise","Extreme events not mentioned",1,0,0,0,0,1,0,1
+"Adaptation","Climate risks: sea level rise","No Document Submitted",1,0,0,0,0,0,0,0
+"Adaptation","Climate risks: sea level rise","Sea level rise mentioned",1,0,0,0,0,0,1,1

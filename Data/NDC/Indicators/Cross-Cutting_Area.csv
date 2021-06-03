@@ -1,14 +1,14 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Cross-Cutting Area","No specified measure",196
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer",47
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Services",39
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Risk Management",28
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Risk Management, Climate Services",23
-"Adaptation","Cross-Cutting Area","Climate Risk Management",16
-"Adaptation","Cross-Cutting Area","Climate Risk Management, Climate Services",11
-"Adaptation","Cross-Cutting Area","Climate Services",10
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Landscape Management",4
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Services, Landscape Management",3
-"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate services, Climate Risk Management",2
-"Adaptation","Cross-Cutting Area","Capacity building and knowledge transfer, Climate services",1
-"Adaptation","Cross-Cutting Area","No Document Submitted",1
+"global_category","indicator_name","value","count","Capacity Building and Knowledge Transfer"," Climate Services"," Climate Risk Management","Climate Risk Management","Climate Services"," Landscape Management"," Climate services","Capacity building and knowledge transfer","GlobalScore"
+"Adaptation","Cross-Cutting Area","No specified measure",196,0,0,0,0,0,0,0,0,0
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer",47,1,0,0,0,0,0,0,0,1
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Services",39,1,1,0,0,1,0,0,0,3
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Risk Management",28,1,0,1,1,0,0,0,0,3
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Risk Management, Climate Services",23,1,1,1,1,1,0,0,0,5
+"Adaptation","Cross-Cutting Area","Climate Risk Management",16,0,0,0,1,0,0,0,0,1
+"Adaptation","Cross-Cutting Area","Climate Risk Management, Climate Services",11,0,1,0,1,1,0,0,0,3
+"Adaptation","Cross-Cutting Area","Climate Services",10,0,0,0,0,1,0,0,0,1
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Landscape Management",4,1,0,0,0,0,1,0,0,2
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate Services, Landscape Management",3,1,1,0,0,1,1,0,0,4
+"Adaptation","Cross-Cutting Area","Capacity Building and Knowledge Transfer, Climate services, Climate Risk Management",2,1,0,1,1,0,0,1,0,4
+"Adaptation","Cross-Cutting Area","Capacity building and knowledge transfer, Climate services",1,0,0,0,0,0,0,1,1,2
+"Adaptation","Cross-Cutting Area","No Document Submitted",1,0,0,0,0,0,0,0,0,0

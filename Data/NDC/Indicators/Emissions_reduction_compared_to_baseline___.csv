@@ -1,17 +1,17 @@
-"global_category","indicator_name","value","count"
-"Mitigation","Emissions reduction compared to baseline (%)","-25%",4
-"Mitigation","Emissions reduction compared to baseline (%)","-16%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-20%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-21%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-22%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-27%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-35.06% to -36.75%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-37%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-55%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-63%",2
-"Mitigation","Emissions reduction compared to baseline (%)","-12%",1
-"Mitigation","Emissions reduction compared to baseline (%)","-15%",1
-"Mitigation","Emissions reduction compared to baseline (%)","-24%",1
-"Mitigation","Emissions reduction compared to baseline (%)","-41%",1
-"Mitigation","Emissions reduction compared to baseline (%)","41210%",1
-"Mitigation","Emissions reduction compared to baseline (%)","Unconditional: -7.3%",1
+"global_category","indicator_name","value","count","-25%","-16%","-20%","-21%","-22%","-27%","-35.06% to -36.75%","-37%","-55%","-63%","-12%","-15%","-24%","-41%","41210%","Unconditional: -7.3%","GlobalScore"
+"Mitigation","Emissions reduction compared to baseline (%)","-25%",4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-16%",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-20%",2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-21%",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-22%",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-27%",2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-35.06% to -36.75%",2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-37%",2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-55%",2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-63%",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-12%",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-15%",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-24%",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","-41%",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","41210%",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Mitigation","Emissions reduction compared to baseline (%)","Unconditional: -7.3%",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1

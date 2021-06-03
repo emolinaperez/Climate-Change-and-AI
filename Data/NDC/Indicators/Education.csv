@@ -1,22 +1,4 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Education","No specified measure",355
-"Overview","Education","education not mentioned",159
-"Overview","Education","education to implement the NDC's adaptation contribution",53
-"Overview","Education","education mentioned",35
-"Overview","Education","#N/A",28
-"Overview","Education","education to implement the NDC's mitigation contribution",26
-"Adaptation","Education","Education: General",25
-"Overview","Education","education to implement NDC, aim not clear",18
-"Overview","Education","education mentioned (context adaptation)",17
-"Overview","Education","education to implement the NDC's adaptation and mitigation contributions",14
-"Overview","Education","education mentioned (context: adaptation)",11
-"Overview","Education","education to implement the NDC's adaptation and mitigation contribution",9
-"Overview","Education","Education mentioned",2
-"Overview","Education","education mentioned (context both adaptation and mitigation)",2
-"Overview","Education","education mentioned (context: both adaptation and mitigation)",2
-"Overview","Education","education mentioned (context mitigation)",1
-"Overview","Education","education mentioned (context: mitigation)",1
-"Overview","Education","Education not mentioned",1
-"Adaptation","Education","No Document Submitted",1
-"Overview","Education","No Document Submitted",1
-"Overview","Education","Not indicated",1
+"global_category","indicator_name","value","count","Education: General","GlobalScore"
+"Adaptation","Education","No specified measure",355,0,0
+"Adaptation","Education","Education: General",25,1,1
+"Adaptation","Education","No Document Submitted",1,0,0

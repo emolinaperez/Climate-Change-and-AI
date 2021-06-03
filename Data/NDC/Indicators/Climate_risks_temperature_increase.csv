@@ -1,8 +1,8 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Climate risks: temperature increase","Temperature increase not mentioned",193
-"Adaptation","Climate risks: temperature increase","Temperature increase mentioned",155
-"Adaptation","Climate risks: temperature increase","#N/A",28
-"Adaptation","Climate risks: temperature increase","temperature increase not mentioned",2
-"Adaptation","Climate risks: temperature increase","Extreme events not mentioned",1
-"Adaptation","Climate risks: temperature increase","No Document Submitted",1
-"Adaptation","Climate risks: temperature increase","temperature increase mentioned as climate risk",1
+"global_category","indicator_name","value","count","Temperature increase not mentioned","Temperature increase mentioned","#N/A","temperature increase not mentioned","Extreme events not mentioned","temperature increase mentioned as climate risk","GlobalScore"
+"Adaptation","Climate risks: temperature increase","Temperature increase not mentioned",193,1,0,0,0,0,0,1
+"Adaptation","Climate risks: temperature increase","Temperature increase mentioned",155,0,1,0,0,0,0,1
+"Adaptation","Climate risks: temperature increase","#N/A",28,0,0,1,0,0,0,1
+"Adaptation","Climate risks: temperature increase","temperature increase not mentioned",2,0,0,0,1,0,0,1
+"Adaptation","Climate risks: temperature increase","Extreme events not mentioned",1,0,0,0,0,1,0,1
+"Adaptation","Climate risks: temperature increase","No Document Submitted",1,0,0,0,0,0,0,0
+"Adaptation","Climate risks: temperature increase","temperature increase mentioned as climate risk",1,0,0,0,0,0,1,1

@@ -1,15 +1,15 @@
-"global_category","indicator_name","value","count"
-"Adaptation","Urban","No specified measure",280
-"Adaptation","Urban","Sustainable Urban Planning",45
-"Adaptation","Urban","Buildings",28
-"Adaptation","Urban","Sustainable Urban Planning, Waste Management",8
-"Adaptation","Urban","Waste Management",4
-"Adaptation","Urban","Buildings, Sustainable Urban Planning",2
-"Adaptation","Urban","Buildings, Sustainable Urban Planning, Waste Management",2
-"Adaptation","Urban","Buildings, Waste Management",2
-"Adaptation","Urban","Sustainable Urban Planning, Solid Waste",2
-"Adaptation","Urban","Sustainable Urban Planning, Water Conservation and Reuse",2
-"Adaptation","Urban","Sustainable Urban Planning, Water Management",2
-"Adaptation","Urban","Waste Management, Solid Waste",2
-"Adaptation","Urban","No Document Submitted",1
-"Adaptation","Urban","Sustainable Urban Planning, Waste Management, Water Supply",1
+"global_category","indicator_name","value","count","Sustainable Urban Planning","Buildings"," Waste Management","Waste Management"," Sustainable Urban Planning"," Solid Waste"," Water Conservation and Reuse"," Water Management"," Water Supply","GlobalScore"
+"Adaptation","Urban","No specified measure",280,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Urban","Sustainable Urban Planning",45,1,0,0,0,0,0,0,0,0,1
+"Adaptation","Urban","Buildings",28,0,1,0,0,0,0,0,0,0,1
+"Adaptation","Urban","Sustainable Urban Planning, Waste Management",8,1,0,1,1,0,0,0,0,0,3
+"Adaptation","Urban","Waste Management",4,0,0,0,1,0,0,0,0,0,1
+"Adaptation","Urban","Buildings, Sustainable Urban Planning",2,1,1,0,0,1,0,0,0,0,3
+"Adaptation","Urban","Buildings, Sustainable Urban Planning, Waste Management",2,1,1,1,1,1,0,0,0,0,5
+"Adaptation","Urban","Buildings, Waste Management",2,0,1,1,1,0,0,0,0,0,3
+"Adaptation","Urban","Sustainable Urban Planning, Solid Waste",2,1,0,0,0,0,1,0,0,0,2
+"Adaptation","Urban","Sustainable Urban Planning, Water Conservation and Reuse",2,1,0,0,0,0,0,1,0,0,2
+"Adaptation","Urban","Sustainable Urban Planning, Water Management",2,1,0,0,0,0,0,0,1,0,2
+"Adaptation","Urban","Waste Management, Solid Waste",2,0,0,0,1,0,1,0,0,0,2
+"Adaptation","Urban","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0
+"Adaptation","Urban","Sustainable Urban Planning, Waste Management, Water Supply",1,1,0,1,1,0,0,0,0,1,4

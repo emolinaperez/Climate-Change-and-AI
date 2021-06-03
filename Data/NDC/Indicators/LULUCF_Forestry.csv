@@ -1,92 +1,92 @@
-"global_category","indicator_name","value","count"
-"Adaptation","LULUCF/Forestry","No specified measure",225
-"Mitigation","LULUCF/Forestry","No specified measure",172
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General",61
-"Adaptation","LULUCF/Forestry","Sustainable Forest Management",32
-"Adaptation","LULUCF/Forestry","Sustainable Land Management",24
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management",12
-"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management",9
-"Adaptation","LULUCF/Forestry","Land Degradation",8
-"Adaptation","LULUCF/Forestry","Reforestation",8
-"Adaptation","LULUCF/Forestry","Afforestation",6
-"Mitigation","LULUCF/Forestry","Afforestation",6
-"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, REDD+, Sustainable Forest Management",6
-"Mitigation","LULUCF/Forestry","REDD+",6
-"Mitigation","LULUCF/Forestry","Reforestation",6
-"Adaptation","LULUCF/Forestry","Reforestation, Reforestation",6
-"Adaptation","LULUCF/Forestry","Reforestation, Sustainable Forest Management",6
-"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Forest Management",6
-"Mitigation","LULUCF/Forestry","Sustainable Land Management",6
-"Adaptation","LULUCF/Forestry","Afforestation, Afforestation",4
-"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Land Degradation, LULUCF/Forestry: General, Reforestation",4
-"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Sustainable Forest Management",4
-"Mitigation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, Reforestation",4
-"Adaptation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, Sustainable Forest Management",4
-"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, REDD+",4
-"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, Reforestation",4
-"Adaptation","LULUCF/Forestry","Land Degradation, LULUCF/Forestry: General",4
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Land Management",4
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+",4
-"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General",3
-"Mitigation","LULUCF/Forestry","Reforestation, Sustainable Forest Management",3
-"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Grasslands, LULUCF/Forestry: General, Reforestation, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Grasslands, Reforestation, Wetlands",2
-"Mitigation","LULUCF/Forestry","Afforestation, Conservation, LULUCF/Forestry: General, REDD+",2
-"Mitigation","LULUCF/Forestry","Afforestation, Conservation, LULUCF/Forestry: General, Reforestation",2
-"Adaptation","LULUCF/Forestry","Afforestation, Grasslands",2
-"Mitigation","LULUCF/Forestry","Afforestation, Land Degradation, LULUCF/Forestry: General, REDD+, Reforestation, Sustainable Forest Management",2
-"Adaptation","LULUCF/Forestry","Afforestation, Land Degradation, LULUCF/Forestry: General, Sustainable Forest Management",2
-"Adaptation","LULUCF/Forestry","Afforestation, Land Degradation, Sustainable forest management, Sustainable land management",2
-"Mitigation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, REDD+",2
-"Adaptation","LULUCF/Forestry","Afforestation, Poverty Reduction",2
-"Mitigation","LULUCF/Forestry","Conservation",2
-"Mitigation","LULUCF/Forestry","Conservation, Land Degradation, LULUCF/Forestry: General, Peatlands",2
-"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, REDD+, Sustainable Forest Management, Sustainable Land Management",2
-"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","Conservation, Reforestation",2
-"Mitigation","LULUCF/Forestry","Conservation, Reforestation, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","Grasslands, Land Degradation, Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Road Sector, Vehicle Fleet",2
-"Mitigation","LULUCF/Forestry","Grasslands, Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Poverty Reduction, Transportation Fuels",2
-"Adaptation","LULUCF/Forestry","Land Degradation, LULUCF/Forestry: General, Peatlands",2
-"Adaptation","LULUCF/Forestry","Land Degradation, LULUCF/Forestry: General, Reforestation",2
-"Adaptation","LULUCF/Forestry","Land Degradation, Reforestation, Sustainable Forest Management, Sustainable Land Management",2
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management",2
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Forest Management",2
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Forest Management, Sustainable Land Management",2
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management",2
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Land Management, Poverty Reduction",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+, Reforestation, Sustainable Forest Management, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+, Sustainable Land Management",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation, Reforestation",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation, Sustainable Forest Management, Sustainable Land Management",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Forest Management, REDD+",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Forest Management, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Land Management",2
-"Mitigation","LULUCF/Forestry","REDD+, Reforestation, Reforestation, Sustainable Forest Management",2
-"Mitigation","LULUCF/Forestry","REDD+, Reforestation, Sustainable Forest Management",2
-"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Infrastructure and Roads, Waste Management",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Poverty Reduction, Water Management, Water Quality, Water Supply, Agriculture: General",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Infrastructure and Roads, Vehicle Fleet",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Poverty Reduction",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Sustainable Urban Planning",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Vehicle Fleet, Water Conservation and Reuse, Watershed and River Basin Management, Climate Smart Agriculture",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Vehicle Fleet, Water Management",2
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Wetlands",2
-"Adaptation","LULUCF/Forestry","Sustainable Land Management, Wetlands",2
-"Mitigation","LULUCF/Forestry","Sustainable Land Management, Wetlands",2
-"Adaptation","LULUCF/Forestry","Wetlands",2
-"Mitigation","LULUCF/Forestry","Wetlands",2
-"Mitigation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, Sustainable Land Management",1
-"Mitigation","LULUCF/Forestry","Conservation, Sustainable Land Management",1
-"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Land Management, LULUCF/Forestry: General",1
-"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+, Conservation, Sustainable Forest Management, Wetlands, Reforestation",1
-"Adaptation","LULUCF/Forestry","No Document Submitted",1
-"Mitigation","LULUCF/Forestry","No Document Submitted",1
-"Mitigation","LULUCF/Forestry","Sustainable Forest Management, LULUCF/Forestry: General",1
-"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Forest Management, Sustainable Land Management",1
-"Mitigation","LULUCF/Forestry","Sustainable Land Management, Infrastructure and Roads, Transportation Fuels",1
-"Adaptation","LULUCF/Forestry","Sustainable land management, Reforestation",1
-"Adaptation","LULUCF/Forestry","Sustainable Land Management, Sustainable Land Management",1
+"global_category","indicator_name","value","count","LULUCF/Forestry: General","Sustainable Forest Management","Sustainable Land Management"," Sustainable Land Management","Land Degradation","Reforestation","Afforestation","Conservation"," LULUCF/Forestry: General"," REDD+"," Sustainable Forest Management","REDD+"," Reforestation"," Afforestation"," Conservation"," Land Degradation"," Grasslands"," Wetlands"," Sustainable forest management"," Sustainable land management"," Poverty Reduction"," Peatlands","Grasslands"," Road Sector"," Vehicle Fleet"," Transportation Fuels"," Infrastructure and Roads"," Waste Management"," Water Management"," Water Quality"," Water Supply"," Agriculture: General"," Sustainable Urban Planning"," Water Conservation and Reuse"," Watershed and River Basin Management"," Climate Smart Agriculture","Wetlands","Sustainable land management","GlobalScore"
+"Adaptation","LULUCF/Forestry","No specified measure",225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","LULUCF/Forestry","No specified measure",172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General",61,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Sustainable Forest Management",32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Sustainable Land Management",24,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management",12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management",9,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Land Degradation",8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Reforestation",8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Afforestation",6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","LULUCF/Forestry","Afforestation",6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, REDD+, Sustainable Forest Management",6,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","LULUCF/Forestry","REDD+",6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","LULUCF/Forestry","Reforestation",6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Reforestation, Reforestation",6,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Adaptation","LULUCF/Forestry","Reforestation, Sustainable Forest Management",6,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Forest Management",6,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Mitigation","LULUCF/Forestry","Sustainable Land Management",6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Adaptation","LULUCF/Forestry","Afforestation, Afforestation",4,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Land Degradation, LULUCF/Forestry: General, Reforestation",4,1,0,0,0,1,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Sustainable Forest Management",4,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, Reforestation",4,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, Sustainable Forest Management",4,1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, REDD+",4,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, Reforestation",4,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Land Degradation, LULUCF/Forestry: General",4,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Land Management",4,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+",4,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General",3,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Reforestation, Sustainable Forest Management",3,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Grasslands, LULUCF/Forestry: General, Reforestation, Sustainable Forest Management",2,1,1,0,0,0,1,1,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+"Mitigation","LULUCF/Forestry","Afforestation, Conservation, Grasslands, Reforestation, Wetlands",2,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9
+"Mitigation","LULUCF/Forestry","Afforestation, Conservation, LULUCF/Forestry: General, REDD+",2,1,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","LULUCF/Forestry","Afforestation, Conservation, LULUCF/Forestry: General, Reforestation",2,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Adaptation","LULUCF/Forestry","Afforestation, Grasslands",2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Afforestation, Land Degradation, LULUCF/Forestry: General, REDD+, Reforestation, Sustainable Forest Management",2,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+"Adaptation","LULUCF/Forestry","Afforestation, Land Degradation, LULUCF/Forestry: General, Sustainable Forest Management",2,1,1,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Adaptation","LULUCF/Forestry","Afforestation, Land Degradation, Sustainable forest management, Sustainable land management",2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+"Mitigation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, REDD+",2,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Afforestation, Poverty Reduction",2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Mitigation","LULUCF/Forestry","Conservation",2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Mitigation","LULUCF/Forestry","Conservation, Land Degradation, LULUCF/Forestry: General, Peatlands",2,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, REDD+, Sustainable Forest Management, Sustainable Land Management",2,1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","LULUCF/Forestry","Conservation, LULUCF/Forestry: General, Sustainable Forest Management",2,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Conservation, Reforestation",2,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Conservation, Reforestation, Sustainable Forest Management",2,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Grasslands, Land Degradation, Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Road Sector, Vehicle Fleet",2,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Mitigation","LULUCF/Forestry","Grasslands, Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Poverty Reduction, Transportation Fuels",2,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Adaptation","LULUCF/Forestry","Land Degradation, LULUCF/Forestry: General, Peatlands",2,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Adaptation","LULUCF/Forestry","Land Degradation, LULUCF/Forestry: General, Reforestation",2,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Land Degradation, Reforestation, Sustainable Forest Management, Sustainable Land Management",2,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management",2,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Forest Management",2,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Forest Management, Sustainable Land Management",2,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Forest Management, Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management",2,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Land Management, Poverty Reduction",2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+, Reforestation, Sustainable Forest Management, Sustainable Forest Management",2,1,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+, Sustainable Land Management",2,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation",2,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation, Reforestation",2,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation, Sustainable Forest Management",2,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Reforestation, Sustainable Forest Management, Sustainable Land Management",2,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Forest Management",2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Forest Management, REDD+",2,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Forest Management, Sustainable Forest Management",2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, Sustainable Land Management",2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","REDD+, Reforestation, Reforestation, Sustainable Forest Management",2,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","REDD+, Reforestation, Sustainable Forest Management",2,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Infrastructure and Roads, Waste Management",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Poverty Reduction, Water Management, Water Quality, Water Supply, Agriculture: General",2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,8
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Infrastructure and Roads, Vehicle Fleet",2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Sustainable Land Management, Poverty Reduction",2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Land Management, Sustainable Urban Planning",2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Vehicle Fleet, Water Conservation and Reuse, Watershed and River Basin Management, Climate Smart Agriculture",2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,7
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Vehicle Fleet, Water Management",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, Wetlands",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+"Adaptation","LULUCF/Forestry","Sustainable Land Management, Wetlands",2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+"Mitigation","LULUCF/Forestry","Sustainable Land Management, Wetlands",2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+"Adaptation","LULUCF/Forestry","Wetlands",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Mitigation","LULUCF/Forestry","Wetlands",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"Mitigation","LULUCF/Forestry","Afforestation, LULUCF/Forestry: General, Sustainable Land Management",1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","Conservation, Sustainable Land Management",1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Land Degradation, Sustainable Land Management, LULUCF/Forestry: General",1,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+"Mitigation","LULUCF/Forestry","LULUCF/Forestry: General, REDD+, Conservation, Sustainable Forest Management, Wetlands, Reforestation",1,1,1,0,0,0,1,0,1,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+"Adaptation","LULUCF/Forestry","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","LULUCF/Forestry","No Document Submitted",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mitigation","LULUCF/Forestry","Sustainable Forest Management, LULUCF/Forestry: General",1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Sustainable Forest Management, Sustainable Forest Management, Sustainable Land Management",1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"Mitigation","LULUCF/Forestry","Sustainable Land Management, Infrastructure and Roads, Transportation Fuels",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3
+"Adaptation","LULUCF/Forestry","Sustainable land management, Reforestation",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+"Adaptation","LULUCF/Forestry","Sustainable Land Management, Sustainable Land Management",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
