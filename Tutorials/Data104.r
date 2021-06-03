@@ -33,7 +33,7 @@
 
 for (i in 1:length(indicators))
 {
-#  i<-10
+#  i<-7
   explore<-subset(NDCData,indicator_name==indicators[i])
   explore$count<-1
   explore<-aggregate(list(count=explore$count),list(
@@ -48,17 +48,16 @@ for (i in 1:length(indicators))
   cs<-unique(unlist(strsplit(explore$value, ",")))
   cs<-subset(cs,!(cs%in%c("No specified measure","No Document Submitted","Not Specified")))
 
-for (j in 1:length(cs))
-{
-explore[,cs[j]]<-unlist(lapply(explore$value,function(x) {  ifelse(grepl(cs[j],x,fixed=TRUE)==TRUE,1,0)} ))
-}
+  for (j in 1:length(cs))
+   {
+    explore[,cs[j]]<-unlist(lapply(explore$value,function(x) {  ifelse(grepl(cs[j],x,fixed=TRUE)==TRUE,1,0)} ))
+   }
 
 #estimate global score
  explore$dummy<-0
  explore$GlobalScore<-rowSums(explore[,c(cs,"dummy")])
  explore$dummy<-NULL
  write.csv(explore,paste0(out,indicators_names[i],".csv"),row.names=FALSE)
-
 }
 
 
@@ -96,7 +95,7 @@ NDCData<-aggregate(
                    )
 
 #this data is in long format, to build a model, we need it in wide format
-
+#install.packages("reshape2")
  NDCData<-reshape2::dcast(NDCData, iso_code3+country~indicator_id,value.var="Score")
 
 #Now we need to add contries characteristics to this data
