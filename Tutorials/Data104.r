@@ -20,6 +20,43 @@
 #which indicators are included here
   indicators<-unique(NDCData$indicator_name)
 
+#write names of indicators
+ metaNDC<-unique(NDCData[,c("indicator_name","indicator_id")])
+
+#keep only relevant indicators
+  target.in<- c("Water",
+                "Urban",
+                "Transport",
+                "Tourism",
+                "Social Development",
+                "LULUCF/Forestry",
+                "Health",
+                "Environment",
+                "Energy",
+                "Education",
+                "Disaster Risk Management (DRM)",
+                "Cross-Cutting Area",
+                "Coastal Zone",
+                "Agriculture",
+                "Buildings",
+                "Economy-wide",
+                "Waste",
+                "Industries",
+                "Capacity Building",
+                "Technology Transfer",
+                "Financial Support",
+                "Barriers",
+                #"Vulnerability: coastal zones",
+                #"Vulnerability: health",
+                #"Vulnerability: ecosystems",
+                #"Vulnerability: water",
+                #"Vulnerability: agriculture",
+                "Migration and displacement"
+               )
+ #subset to targets
+ indicators<-subset(indicators,indicators%in%target.in)
+
+
 #clean indicators names
  indicators_names<-gsub("/","_",indicators)
  indicators_names<-gsub(" ","_",indicators_names)
@@ -76,7 +113,8 @@ for (i in 1:length(indicators))
 #make sure all index in the data to add, exist in the data that will be merged
  unique(unique(ScoresTable$Index)%in%unique(NDCData$Index))
 #if all ture, then you can make the merged
-  NDCData<-merge(NDCData,ScoresTable[c("Index","GlobalScore")],by="Index",all.x=TRUE)
+#  NDCData<-merge(NDCData,ScoresTable[c("Index","GlobalScore")],by="Index",all.x=TRUE)
+  NDCData<-merge(NDCData,ScoresTable[c("Index","GlobalScore")],by="Index")
   dim(NDCData)
 
 #remove index
@@ -138,3 +176,4 @@ NDCData<-aggregate(
 #write model data
  dir.out<-"C:\\Users\\Usuario\\OneDrive\\Edmundo-ITESM\\3.Proyectos\\41. Climate Change and AI\\Data\\Model\\"
  write.csv(ModelData,paste0(dir.out,"ModelData.csv"),row.names=FALSE)
+ write.csv(metaNDC,paste0(dir.out,"MetaNDC.csv"),row.names=FALSE)
