@@ -8,19 +8,21 @@ summary(data)
 #Remover columnas con NA
 bad.vars<-sapply(data, function(x) {mean(ifelse(is.na(x)==TRUE,1,0))})
 bad.vars<-names(bad.vars[bad.vars>0.50])
+bad.vars
 bad.vars<-c(bad.vars,"SE.ENR.PRSC.FM.ZS","SE.PRM.CMPT.ZS","SE.SEC.ENRR","SH.DYN.AIDS.ZS","TT.PRI.MRCH.XD.WD","TX.VAL.TECH.MF.ZS")
-
+bad.vars
 #Nuestra variable de interes 
 
 #EN.ATM.CO2E.PC=CO2 emissions (metric tons per capita)
 ids<-c("iso_code3","country")
 response<-"EN.ATM.CO2E.PC"
 predictors<-subset(colnames(data),!(colnames(data)%in%c(ids,response,bad.vars)))
+predictors
 
 #estimate full model
 data.model<-data[,c(response,predictors)]
-model<-as.formula(paste0(response,"~",paste(predictors,collapse="+")))
-full.model <- lm(model, data = data.model)
+model<-as.formula(paste0(response,"~",paste(predictors[1:27],collapse="+")))
+full.model <- lm(model, data = data.model, na.action=na.omit)
 summary(full.model)
 
 #now let's select various smaller models
@@ -36,7 +38,7 @@ train <- sample (c(TRUE ,FALSE), nrow(data.model ),rep=TRUE)
 test  <- (!train )
 
 #define maximum length of the model
-max.vars<-8
+max.vars<-10
 
 #let's do full search
 regfit.best <- regsubsets (model, data.model[train,], nvmax =max.vars,really.big = T) #you can choose how large you want the search to be
