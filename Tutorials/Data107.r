@@ -13,7 +13,8 @@
 #let's select a response of interest
 #EN.ATM.CO2E.PC=CO2 emissions (metric tons per capita)
   ids<-c("iso_code3","country")
-  response<-"EN.ATM.CO2E.PC"
+  #response<-"EN.ATM.CO2E.PC"
+  response<-"migration_and_displacement"
   predictors<-subset(colnames(data),!(colnames(data)%in%c(ids,response,bad.vars)))
 
 # Since we are analyzing this as a classification problem
@@ -22,8 +23,9 @@
 
 # now let's partition the response of interest into two groups
 #focus on the high emissions per capita nations
- threshold<-as.numeric(quantile(data[,response],0.70,na.rm=TRUE))
- data$response.binary<-as.factor(ifelse(data[,response]>threshold,"High","Low"))
+ threshold<-as.numeric(quantile(data[,response],0.10,na.rm=TRUE))
+ #data$response.binary<-as.factor(ifelse(data[,response]>threshold,"High","Low"))
+ data$response.binary<-as.factor(ifelse(data[,response]>1.5,"High","Low")) #mariana's example
 
 # remove NA values in the response
  data<-subset(data,is.na(response.binary)==FALSE)
@@ -47,12 +49,18 @@
 #========================
 # Approach 1: Classification tree
 #========================
-#install.packages("tree")
+#install.packages("tree")}
+ library(tree)
  set.seed (55555)
- train<-sample (1: nrow(data.model ), 100)
+ train<-sample (1: nrow(data.model ), nrow(data.model )/2)
  data.model.test<-data.model[-train ,]
  response.binary.test<-data.model$response.binary[-train ]
  tree.model <- tree(model,data.model ,subset =train )
+#see the model
+ plot(tree.model )
+ text(tree.model ,pretty =0)
+
+#estimate prediction
  tree.model.pred<-predict(tree.model ,data.model.test ,type ="class")
  table(tree.model.pred ,response.binary.test)
 
@@ -66,7 +74,7 @@
 # dev corresponds to the cross-validation error rate in this instance, which is then the best tree?
 
 #we can use prune.misclass() to obtain the best tree
-  prune.tree.model <- prune.misclass (tree.model ,best =2)
+  prune.tree.model <- prune.misclass (tree.model ,best =4)
   plot(prune.tree.model )
   text(prune.tree.model ,pretty =0)
 
@@ -96,7 +104,7 @@
 
 #which is the best tree?
 
- prune.Rtree.data.model <- prune.misclass(Rtree.data.model  ,best =2)
+ prune.Rtree.data.model <- prune.misclass(Rtree.data.model  ,best =4)
  plot(prune.Rtree.data.model )
  text(prune.Rtree.data.model ,pretty =0)
 
