@@ -58,9 +58,9 @@
 #now how do we select which model is best
 
 predict.regsubsets <-function (object, model ,newdata ,id ){
-  #object<-regfit.best
-  #newdata<-data.model[test ,]
-  #id<-1
+#  object<-regfit.best
+#  newdata<-data.model[test ,]
+#  id<-4
   form<-model
   options(na.action='na.pass')
   mat<-model.matrix (form,newdata )
