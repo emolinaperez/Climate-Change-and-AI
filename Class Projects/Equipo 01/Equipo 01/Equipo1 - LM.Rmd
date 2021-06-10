@@ -1,7 +1,7 @@
 ---
-title: "Equipo1 - LM"
-author: "Marcelo Méndez - A01635611"
-date: "6/9/2021"
+title: "Equipo01 - LM"
+author: "Marcelo Méndez, Ferdinand Geminiano, Brayan Alcantar"
+date: "6/10/2021"
 output: html_document
 ---
 
@@ -157,6 +157,8 @@ coef(regfit.bwd ,subset(cv.bwd,test.mse==min(test.mse))$nvars)
 ```
 
 ```{r}
+# Finalmente, nos decidimos por el siguiente modelo, basado en la búsqueda forward stepwise, ya que consideramos nos brindaría los mejores resultados gracias al número de predictores, así como su test.mse:
+
 data.model <- data[,c(response,predictors)]
 model <- as.formula(paste0(response,"~",paste(predictors[c(7,12,20,27,28,31)],collapse="+")))
 full.model <- lm(model, data = data.model, na.action = na.omit)
