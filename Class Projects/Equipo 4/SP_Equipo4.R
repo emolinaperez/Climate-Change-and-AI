@@ -1,4 +1,8 @@
-#Migración
+#Migración y deesplazamiento
+#Situación problema
+#Equipo 4
+#Mariana y Paola
+
 #Librarys
 library(randomForest)
 library(tree)
