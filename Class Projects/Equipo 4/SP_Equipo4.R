@@ -224,6 +224,32 @@ library (MASS)
  summary(ndc.randomf)
  
  
-
+ #========================
+ # Propuesta segundo modelo
+ #========================
+ library(dplyr)
+ library(tidymodels)
+ library(vip)
+ receta <-
+   recipe(migration_and_displacement~ ., data.model) %>%
+   step_normalize(all_predictors()) %>% 
+   step_naomit(all_predictors()) %>% 
+   prep()
+ 
+ rf.model <-
+   rand_forest(mtry = round(length(predictors) ^ 0.5)) %>%
+   set_engine("randomForest") %>% set_mode("classification")
+ 
+ flujo <- workflow() %>% add_model(rf.model) %>% add_recipe(receta)
+ 
+ ajuste <- flujo %>% fit(data.model)
+ 
+ # na_values <- c()
+ # for (i in 1:ncol(data.model)) {
+ #    na_values[i] <- sum(is.na(data.model[, i]))
+ # }
+ # na_values
+ 
+ ajuste %>% pull_workflow_fit() %>% vip(geom = "point") + theme_bw()
  
 
