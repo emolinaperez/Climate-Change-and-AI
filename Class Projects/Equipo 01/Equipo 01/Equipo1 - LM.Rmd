@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 #first let's divide the sample into a test and a a train set
-  set.seed (99999)
+  set.seed (55555)
   train <- sample (c(TRUE ,FALSE), nrow(data.model ),rep=TRUE)
   test  <- (!train )
 ```
@@ -158,4 +158,11 @@ for(i in 2:max.vars)
 subset(cv.bwd,test.mse==min(test.mse))
 #actual model
 coef(regfit.bwd ,subset(cv.bwd,test.mse==min(test.mse))$nvars)
+```
+
+```{r}
+data.model<-data[,c(response,predictors)]
+model<-as.formula(paste0(response,"~",paste(predictors[c(5,7,12,17,20,27,28,31)],collapse="+")))
+full.model <- lm(model, data = data.model, na.action = na.omit)
+summary(full.model)
 ```
