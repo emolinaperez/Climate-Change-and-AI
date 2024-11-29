@@ -1,0 +1,166 @@
+---
+title: "Equipo01 - LM"
+author: "Marcelo Méndez, Ferdinand Geminiano, Brayan Alcantar"
+date: "6/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Para este código se hará una regresión lineal utilizando los siguientes datos:
+ dir.data <- "/Users/marcelomendez/Desktop/ITESM 4.0/CdD/Git/Climate-Change-and-AI/Data/Model/"
+ data <- read.csv(paste0(dir.data,"ModelData.csv"))
+ summary(data)
+```
+
+```{r}
+# Removemos todos los datos que muestran "NA":
+ bad.vars <- sapply(data, function(x) {mean(ifelse(is.na(x)==TRUE,1,0))})
+ bad.vars <- names(bad.vars[bad.vars>0.03])
+ bad.vars <- c(bad.vars,"SE.ENR.PRSC.FM.ZS","SE.PRM.CMPT.ZS","SE.SEC.ENRR","SH.DYN.AIDS.ZS","TT.PRI.MRCH.XD.WD","TX.VAL.TECH.MF.ZS")
+```
+
+```{r}
+# La respuesta de interés de la regresión es: EN.ATM.CO2E.PC=CO2 emissions (metric tons per capita):
+  ids <- c("iso_code3","country")
+  response <- "EN.ATM.CO2E.PC"
+  predictors <- subset(colnames(data),!(colnames(data)%in%c(ids,response,bad.vars)))
+```
+
+```{r}
+# Estimamos el modelo completo y limpiamos los datos:
+ data.model <- data[,c(response,predictors)]
+ data.model <- data.model[complete.cases(data.model),]
+ model <- as.formula(paste0(response,"~",paste(predictors,collapse="+")))
+ full.model <- lm(model, data = data.model)
+ summary(full.model)
+ # Podemos observar que este modelo realmente no nos dice mucho, por lo que buscaremos una mejor opción.
+```
+
+```{r}
+# Cargamos la librería leaps:
+ library(leaps)
+```
+
+```{r}
+# Dividimos la muestra en dos conjuntos, uno de prueba y otro de entrenamiento:
+  set.seed (55555)
+  train <- sample (c(TRUE ,FALSE), nrow(data.model ),rep=TRUE)
+  test  <- (!train )
+```
+
+```{r}
+# Definimos la longitud máxima del modelo:
+ max.vars <- 10
+```
+
+```{r}
+# Búsqueda completa:
+ regfit.best <- regsubsets (model, data.model[train,], nvmax =max.vars,really.big = T)
+
+# Búsqueda forward stepwise:
+ regfit.fwd <- regsubsets (model, data.model[train,], nvmax =max.vars,really.big = T, method = "forward")
+
+# Búsqueda backward stepwise:
+ regfit.bwd <- regsubsets (model, data.model[train,], nvmax =max.vars,really.big = T, method = "backward")
+```
+
+```{r}
+# Exploramos los diferentes modelos:
+ msize <- 10
+  coef(regfit.best ,msize)
+  coef(regfit.fwd , msize)
+  coef(regfit.bwd , msize)
+```
+
+```{r}
+# Para escoger el mejor modelo, primero creamos subsets:
+predict.regsubsets <- function (object, model ,newdata ,id ){
+  #object<-regfit.best
+  #newdata<-data.model[test ,]
+  #id<-4
+  form <- model
+  options(na.action='na.pass')
+  mat <- model.matrix (form,newdata )
+  coefi <- coef(object ,id=id)
+  xvars <- names (coefi )
+  pred <- mat[,xvars ]%*% coefi
+  val.errors <- mean((newdata[,response]-pred)^2,na.rm=TRUE)
+  val.errors
+  }
+```
+
+```{r}
+# Luego, estimamos el MSE para los tres modelos diferentes:
+
+#best subset
+ cv.best <- data.frame(subset.type="best",
+                     nvars=1,
+                     test.mse=predict.regsubsets(regfit.best,model,data.model[test ,],1))
+
+ for(i in 2:max.vars)
+ {
+   pivot <- data.frame(subset.type="best",
+                      nvars=i,
+                      test.mse=predict.regsubsets(regfit.best,model,data.model[test ,],i))
+  cv.best <- rbind(cv.best,pivot)
+
+ }
+#best model
+ subset(cv.best,test.mse==min(test.mse))
+#actual model
+ coef(regfit.best ,subset(cv.best,test.mse==min(test.mse))$nvars)
+```
+
+```{r}
+#forward method
+cv.fwd <- data.frame(subset.type="fwd",
+                    nvars=1,
+                    test.mse=predict.regsubsets(regfit.fwd,model,data.model[test ,],1))
+
+for(i in 2:max.vars)
+{
+  pivot <- data.frame(subset.type="fwd",
+                     nvars=i,
+                     test.mse=predict.regsubsets(regfit.fwd,model,data.model[test ,],i))
+ cv.fwd <- rbind(cv.fwd,pivot)
+
+}
+#best model
+subset(cv.fwd,test.mse==min(test.mse))
+#actual model
+coef(regfit.fwd ,subset(cv.fwd,test.mse==min(test.mse))$nvars)
+```
+
+```{r}
+#backward method
+cv.bwd <- data.frame(subset.type="bwd",
+                    nvars=1,
+                    test.mse=predict.regsubsets(regfit.bwd,model,data.model[test ,],1))
+
+for(i in 2:max.vars)
+{
+  pivot <- data.frame(subset.type="bwd",
+                     nvars=i,
+                     test.mse=predict.regsubsets(regfit.bwd,model,data.model[test ,],i))
+ cv.bwd <- rbind(cv.bwd,pivot)
+
+}
+
+#best model
+subset(cv.bwd,test.mse==min(test.mse))
+#actual model
+coef(regfit.bwd ,subset(cv.bwd,test.mse==min(test.mse))$nvars)
+```
+
+```{r}
+# Finalmente, nos decidimos por el siguiente modelo, basado en la búsqueda forward stepwise, ya que consideramos nos brindaría los mejores resultados gracias al número de predictores, así como su test.mse:
+
+data.model <- data[,c(response,predictors)]
+model <- as.formula(paste0(response,"~",paste(predictors[c(7,12,20,27,28,31)],collapse="+")))
+full.model <- lm(model, data = data.model, na.action = na.omit)
+summary(full.model)
+```
